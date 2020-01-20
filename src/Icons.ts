@@ -5615,7 +5615,7 @@ export const Solid = {
         const p = bridge.platform;
         if (p) {
             if (/android/i.test(p)) {
-                name = "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular";
+                name = "Font Awesome 5 Free-Solid-400.otf#Font Awesome 5 Free Solid";
             } else if (/ios/i.test(p)) {
                 name = "Font Awesome 5 Free";
             }
@@ -7830,7 +7830,7 @@ export const Brands = {
         const p = bridge.platform;
         if (p) {
             if (/android/i.test(p)) {
-                name = "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular";
+                name = "Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular";
             } else if (/ios/i.test(p)) {
                 name = "Font Awesome 5 Free";
             }

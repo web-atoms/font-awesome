@@ -17,7 +17,7 @@ function toIdentifier(name, lowerCase) {
     return a;
 }
 
-function generate(name, style, gen) {
+function generate(fontName, name, style, gen) {
     let lowerCase = false;
     if (!gen) {
         lowerCase = true;
@@ -59,7 +59,7 @@ function generate(name, style, gen) {
         const p = bridge.platform;
         if (p) {
             if (/android/i.test(p)) {
-                name = "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular";
+                name = "${fontName}";
             } else if (/ios/i.test(p)) {
                 name = "Font Awesome 5 Free";
             }
@@ -75,9 +75,9 @@ function generate(name, style, gen) {
 let file = `
 // ts-lint:disable
 declare var bridge: any;
-${generate("Regular", "regular")}
-${generate("Solid", "solid")}
-${generate("Brands", "brands")}
+${generate("Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular", "Regular", "regular")}
+${generate("Font Awesome 5 Free-Solid-400.otf#Font Awesome 5 Free Solid", "Solid", "solid")}
+${generate("Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular", "Brands", "brands")}
 `;
 
 fs.writeFileSync("./src/Icons.ts", file);

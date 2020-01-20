@@ -50,13 +50,31 @@ function generate(name, style, gen) {
     }
 
     return `export const ${name} = {
-        ${list.join(",\r\n\t")}
+    ${list.join(",\r\n\t")},
+    toString: () => {
+        let name = this._fontName;
+        if (name) {
+            return name;
+        }
+        const p = bridge.platform;
+        if (p) {
+            if (/android/i.test(p)) {
+                name = "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular";
+            } else if (/ios/i.test(p)) {
+                name = "Font Awesome 5 Free";
+            }
+        } else {
+            name = "Font Awesome 5 Free";
+        }
+        return name;
+    }
 };
 `;
 }
 
 let file = `
 // ts-lint:disable
+declare var bridge: any;
 ${generate("Regular", "regular")}
 ${generate("Solid", "solid")}
 ${generate("Brands", "brands")}

@@ -1,7 +1,8 @@
 
 // ts-lint:disable
+declare var bridge: any;
 export const Regular = {
-        
+    
     /**
      * Address Book ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/regular/address-book.svg)
     */
@@ -760,11 +761,28 @@ export const Regular = {
     /**
      * Window Restore ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/regular/window-restore.svg)
     */
-    windowRestore: "\uf2d2"
+    windowRestore: "\uf2d2",
+    toString: () => {
+        let name = this._fontName;
+        if (name) {
+            return name;
+        }
+        const p = bridge.platform;
+        if (p) {
+            if (/android/i.test(p)) {
+                name = "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular";
+            } else if (/ios/i.test(p)) {
+                name = "Font Awesome 5 Free";
+            }
+        } else {
+            name = "Font Awesome 5 Free";
+        }
+        return name;
+    }
 };
 
 export const Solid = {
-        
+    
     /**
      * Ad ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ad.svg)
     */
@@ -5588,11 +5606,28 @@ export const Solid = {
     /**
      * Yin Yang ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/yin-yang.svg)
     */
-    yinYang: "\uf6ad"
+    yinYang: "\uf6ad",
+    toString: () => {
+        let name = this._fontName;
+        if (name) {
+            return name;
+        }
+        const p = bridge.platform;
+        if (p) {
+            if (/android/i.test(p)) {
+                name = "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular";
+            } else if (/ios/i.test(p)) {
+                name = "Font Awesome 5 Free";
+            }
+        } else {
+            name = "Font Awesome 5 Free";
+        }
+        return name;
+    }
 };
 
 export const Brands = {
-        
+    
     /**
      * 500px ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/brands/500px.svg)
     */
@@ -7786,6 +7821,23 @@ export const Brands = {
     /**
      * Zhihu ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/brands/zhihu.svg)
     */
-    zhihu: "\uf63f"
+    zhihu: "\uf63f",
+    toString: () => {
+        let name = this._fontName;
+        if (name) {
+            return name;
+        }
+        const p = bridge.platform;
+        if (p) {
+            if (/android/i.test(p)) {
+                name = "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular";
+            } else if (/ios/i.test(p)) {
+                name = "Font Awesome 5 Free";
+            }
+        } else {
+            name = "Font Awesome 5 Free";
+        }
+        return name;
+    }
 };
 

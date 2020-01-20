@@ -1,7 +1,7 @@
-import { Regular } from "../Icons";
+import { FontAwesomeRegular } from "../FontAwesome";
 
 // tslint:disable-next-line: one-variable-per-declaration
 export const A = {
-    test: Regular.angry,
-    angry: Regular.file
+    test: FontAwesomeRegular.angry,
+    angry: FontAwesomeRegular.file
 };

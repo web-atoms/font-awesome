@@ -49,7 +49,7 @@ function generate(fontName, name, style, gen) {
         }
     }
 
-    return `export const ${name} = {
+    return `export const FontAwesome${name} = {
     ${list.join(",\r\n\t")},
     toString: () => {
         let name = this._fontName;
@@ -80,7 +80,7 @@ ${generate("Font Awesome 5 Free-Solid-400.otf#Font Awesome 5 Free Solid", "Solid
 ${generate("Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular", "Brands", "brands")}
 `;
 
-fs.writeFileSync("./src/Icons.ts", file);
+fs.writeFileSync("./src/FontAwesome.ts", file);
 
 // function generator
 function nodeGenerator(item) {

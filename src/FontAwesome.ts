@@ -1,7 +1,7 @@
 
 // ts-lint:disable
 declare var bridge: any;
-export const Regular = {
+export const FontAwesomeRegular = {
     
     /**
      * Address Book ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/regular/address-book.svg)
@@ -781,7 +781,7 @@ export const Regular = {
     }
 };
 
-export const Solid = {
+export const FontAwesomeSolid = {
     
     /**
      * Ad ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ad.svg)
@@ -5626,7 +5626,7 @@ export const Solid = {
     }
 };
 
-export const Brands = {
+export const FontAwesomeBrands = {
     
     /**
      * 500px ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/brands/500px.svg)

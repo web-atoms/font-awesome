@@ -49,7 +49,9 @@ function generate(fontName, name, style, gen) {
         }
     }
 
-    return `export const FontAwesome${name} = {
+    const content = `// ts-lint:disable
+declare var bridge: any;
+const FontAwesome${name} = {
     ${list.join(",\r\n\t")},
     toString: () => {
         let name = this._fontName;
@@ -69,30 +71,13 @@ function generate(fontName, name, style, gen) {
         return name;
     }
 };
-`;
-}
 
-let file = `
-// ts-lint:disable
-declare var bridge: any;
-${generate("Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular", "Regular", "regular")}
-${generate("Font Awesome 5 Free-Solid-400.otf#Font Awesome 5 Free Solid", "Solid", "solid")}
-${generate("Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular", "Brands", "brands")}
+export default FontAwesome${name};
 `;
 
-fs.writeFileSync("./src/FontAwesome.ts", file);
-
-// function generator
-function nodeGenerator(item) {
-    return `(target) => (t, a, ... c) => new XNode(target, a, ... c)`;
+fs.writeFileSync(`./src/FontAwesome${name}.ts`, content);
 }
 
-// file = `
-// // ts-lint:disable
-// import XNode from "@web-atoms/core/dist/core/XNode";
-// ${generate("Regular", "regular", nodeGenerator)}
-// ${generate("Solid", "solid", nodeGenerator)}
-// ${generate("Brands", "brands", nodeGenerator)}
-// `;
-
-// fs.writeFileSync("./src/FA.ts", file);
+generate("Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular", "Regular", "regular");
+generate("Font Awesome 5 Free-Solid-400.otf#Font Awesome 5 Free Solid", "Solid", "solid");
+generate("Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular", "Brands", "brands");

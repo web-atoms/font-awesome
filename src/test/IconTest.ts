@@ -1,4 +1,4 @@
-import { FontAwesomeRegular } from "../FontAwesome";
+import FontAwesomeRegular from "../FontAwesomeRegular";
 
 // tslint:disable-next-line: one-variable-per-declaration
 export const A = {

@@ -19,5 +19,8 @@
   "homepage": "https://github.com/web-atoms/font-awesome#readme",
   "dependencies": {
     "@web-atoms/core": "^1.1.27"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.0"
   }
 }

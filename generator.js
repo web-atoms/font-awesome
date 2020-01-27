@@ -41,7 +41,7 @@ function generate(fontName, name, style, gen) {
 
             const imgName = key;
 
-            const img = `https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@${packageVersion}/pngs/${style}/${imgName}.svg`;
+            const img = `https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@${packageVersion}/pngs/${style}/${imgName}.svg.png`;
 
             const t = `
     /**

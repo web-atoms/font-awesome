@@ -44,8 +44,7 @@ function generate(fontName, name, style, gen) {
             const img = `https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@${packageVersion}/pngs/${style}/${imgName}.svg.png`;
 
             const t = `
-    /**
-     * ${element.label} ![Image](${img})
+    /** ![Image](${img}) ${element.label}
      * Image Copyright FontAwesome.com
     */
     ${toIdentifier(key, lowerCase)}: ${gen(element)}`;

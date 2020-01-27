@@ -23,7 +23,8 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
       - run: node ./png/change-name.js
+      - run: node ./generate-png.js
       - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
-      - run: node ./undo.js
+      - run: node ./png/undo.js

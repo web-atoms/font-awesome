@@ -66,7 +66,7 @@ const FontAwesome${name} = {
             if (/android/i.test(p)) {
                 name = "${fontName}";
             } else if (/ios/i.test(p)) {
-                name = "Font Awesome 5 Free";
+                name = "Font Awesome 5 Free " + ${name};
             }
         } else {
             name = "Font Awesome 5 Free";

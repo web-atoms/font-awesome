@@ -1,6 +1,9 @@
 var fs = require("fs");
 
-var icons = JSON.parse(fs.readFileSync("icons.json"));
+var icons = JSON.parse(fs.readFileSync("./icons.json"));
+
+var package = JSON.parse(fs.readFileSync("./package.json"))
+var packageVersion = package.version;
 
 function toIdentifier(name, lowerCase) {
     const a = name = name.split("-")
@@ -38,7 +41,7 @@ function generate(fontName, name, style, gen) {
 
             const imgName = key;
 
-            const img = `https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/${style}/${imgName}.svg`;
+            const img = `https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@${packageVersion}/pngs/${style}/${imgName}.svg`;
 
             const t = `
     /**

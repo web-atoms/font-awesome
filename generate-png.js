@@ -1,4 +1,4 @@
-const { convert }  = require('convert-svg-to-png');
+const sharp = require('sharp');
 const { readdirSync, statSync, readFileSync, writeFileSync, mkdirSync, existsSync } = require("fs");
 const path = require("path");
 
@@ -32,9 +32,13 @@ async function convertFolder(folder, targetFolder) {
 
     for (const task of svgs) {
         const all = task.map(async (x) => {
-            const data = readFileSync(x.filePath, "binary");
-            const png = await convert(data, { background: "white", height: 50 });
-            writeFileSync(x.targetPath, png , "binary");
+            const png = await sharp(x.filePath)
+                .png()
+                .resize(50)
+                .flatten({ background: "#FFFFFF" })
+                .removeAlpha()
+                .toBuffer();
+            writeFileSync(x.targetPath + ".png", png , "binary");
         });
         await Promise.all(all);
     }
@@ -42,7 +46,12 @@ async function convertFolder(folder, targetFolder) {
 
 (async() => {
 
-    await convertFolder("./node_modules/@fortawesome/fontawesome-free/svgs", "./pngs");    
+    try {
+
+        await convertFolder("./node_modules/@fortawesome/fontawesome-free/svgs", "./pngs");    
+    } catch (e) {
+        console.error(e.stack ? (e + "\r\n" + e.stack) : e);
+    }
     
   //=> "/path/to/my-image.png"
 })();

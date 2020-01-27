@@ -82,5 +82,5 @@ fs.writeFileSync(`./src/FontAwesome${name}.ts`, content);
 }
 
 generate("Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular", "Regular", "regular");
-generate("Font Awesome 5 Free-Solid-400.otf#Font Awesome 5 Free Solid", "Solid", "solid");
+generate("Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid", "Solid", "solid");
 generate("Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular", "Brands", "brands");

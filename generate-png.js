@@ -34,7 +34,7 @@ async function convertFolder(folder, targetFolder) {
         const all = task.map(async (x) => {
             const png = await sharp(x.filePath)
                 .png()
-                .resize(50)
+                .resize(20)
                 .flatten({ background: "#FFFFFF" })
                 .removeAlpha()
                 .toBuffer();

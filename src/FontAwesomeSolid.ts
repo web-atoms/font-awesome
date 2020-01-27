@@ -2,4828 +2,4828 @@
 declare var bridge: any;
 const FontAwesomeSolid = {
     
-    /**
-     * Ad ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ad.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ad.svg.png) Ad
+     * Image Copyright FontAwesome.com
     */
     ad: "\uf641",
 	
-    /**
-     * Address Book ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/address-book.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/address-book.svg.png) Address Book
+     * Image Copyright FontAwesome.com
     */
     addressBook: "\uf2b9",
 	
-    /**
-     * Address Card ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/address-card.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/address-card.svg.png) Address Card
+     * Image Copyright FontAwesome.com
     */
     addressCard: "\uf2bb",
 	
-    /**
-     * adjust ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/adjust.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/adjust.svg.png) adjust
+     * Image Copyright FontAwesome.com
     */
     adjust: "\uf042",
 	
-    /**
-     * Air Freshener ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/air-freshener.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/air-freshener.svg.png) Air Freshener
+     * Image Copyright FontAwesome.com
     */
     airFreshener: "\uf5d0",
 	
-    /**
-     * align-center ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/align-center.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/align-center.svg.png) align-center
+     * Image Copyright FontAwesome.com
     */
     alignCenter: "\uf037",
 	
-    /**
-     * align-justify ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/align-justify.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/align-justify.svg.png) align-justify
+     * Image Copyright FontAwesome.com
     */
     alignJustify: "\uf039",
 	
-    /**
-     * align-left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/align-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/align-left.svg.png) align-left
+     * Image Copyright FontAwesome.com
     */
     alignLeft: "\uf036",
 	
-    /**
-     * align-right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/align-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/align-right.svg.png) align-right
+     * Image Copyright FontAwesome.com
     */
     alignRight: "\uf038",
 	
-    /**
-     * Allergies ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/allergies.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/allergies.svg.png) Allergies
+     * Image Copyright FontAwesome.com
     */
     allergies: "\uf461",
 	
-    /**
-     * ambulance ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ambulance.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ambulance.svg.png) ambulance
+     * Image Copyright FontAwesome.com
     */
     ambulance: "\uf0f9",
 	
-    /**
-     * American Sign Language Interpreting ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/american-sign-language-interpreting.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/american-sign-language-interpreting.svg.png) American Sign Language Interpreting
+     * Image Copyright FontAwesome.com
     */
     americanSignLanguageInterpreting: "\uf2a3",
 	
-    /**
-     * Anchor ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/anchor.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/anchor.svg.png) Anchor
+     * Image Copyright FontAwesome.com
     */
     anchor: "\uf13d",
 	
-    /**
-     * Angle Double Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-double-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-double-down.svg.png) Angle Double Down
+     * Image Copyright FontAwesome.com
     */
     angleDoubleDown: "\uf103",
 	
-    /**
-     * Angle Double Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-double-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-double-left.svg.png) Angle Double Left
+     * Image Copyright FontAwesome.com
     */
     angleDoubleLeft: "\uf100",
 	
-    /**
-     * Angle Double Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-double-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-double-right.svg.png) Angle Double Right
+     * Image Copyright FontAwesome.com
     */
     angleDoubleRight: "\uf101",
 	
-    /**
-     * Angle Double Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-double-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-double-up.svg.png) Angle Double Up
+     * Image Copyright FontAwesome.com
     */
     angleDoubleUp: "\uf102",
 	
-    /**
-     * angle-down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-down.svg.png) angle-down
+     * Image Copyright FontAwesome.com
     */
     angleDown: "\uf107",
 	
-    /**
-     * angle-left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-left.svg.png) angle-left
+     * Image Copyright FontAwesome.com
     */
     angleLeft: "\uf104",
 	
-    /**
-     * angle-right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-right.svg.png) angle-right
+     * Image Copyright FontAwesome.com
     */
     angleRight: "\uf105",
 	
-    /**
-     * angle-up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angle-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angle-up.svg.png) angle-up
+     * Image Copyright FontAwesome.com
     */
     angleUp: "\uf106",
 	
-    /**
-     * Angry Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/angry.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/angry.svg.png) Angry Face
+     * Image Copyright FontAwesome.com
     */
     angry: "\uf556",
 	
-    /**
-     * Ankh ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ankh.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ankh.svg.png) Ankh
+     * Image Copyright FontAwesome.com
     */
     ankh: "\uf644",
 	
-    /**
-     * Fruit Apple ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/apple-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/apple-alt.svg.png) Fruit Apple
+     * Image Copyright FontAwesome.com
     */
     appleAlt: "\uf5d1",
 	
-    /**
-     * Archive ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/archive.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/archive.svg.png) Archive
+     * Image Copyright FontAwesome.com
     */
     archive: "\uf187",
 	
-    /**
-     * Archway ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/archway.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/archway.svg.png) Archway
+     * Image Copyright FontAwesome.com
     */
     archway: "\uf557",
 	
-    /**
-     * Alternate Arrow Circle Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-alt-circle-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-alt-circle-down.svg.png) Alternate Arrow Circle Down
+     * Image Copyright FontAwesome.com
     */
     arrowAltCircleDown: "\uf358",
 	
-    /**
-     * Alternate Arrow Circle Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-alt-circle-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-alt-circle-left.svg.png) Alternate Arrow Circle Left
+     * Image Copyright FontAwesome.com
     */
     arrowAltCircleLeft: "\uf359",
 	
-    /**
-     * Alternate Arrow Circle Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-alt-circle-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-alt-circle-right.svg.png) Alternate Arrow Circle Right
+     * Image Copyright FontAwesome.com
     */
     arrowAltCircleRight: "\uf35a",
 	
-    /**
-     * Alternate Arrow Circle Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-alt-circle-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-alt-circle-up.svg.png) Alternate Arrow Circle Up
+     * Image Copyright FontAwesome.com
     */
     arrowAltCircleUp: "\uf35b",
 	
-    /**
-     * Arrow Circle Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-circle-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-circle-down.svg.png) Arrow Circle Down
+     * Image Copyright FontAwesome.com
     */
     arrowCircleDown: "\uf0ab",
 	
-    /**
-     * Arrow Circle Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-circle-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-circle-left.svg.png) Arrow Circle Left
+     * Image Copyright FontAwesome.com
     */
     arrowCircleLeft: "\uf0a8",
 	
-    /**
-     * Arrow Circle Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-circle-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-circle-right.svg.png) Arrow Circle Right
+     * Image Copyright FontAwesome.com
     */
     arrowCircleRight: "\uf0a9",
 	
-    /**
-     * Arrow Circle Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-circle-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-circle-up.svg.png) Arrow Circle Up
+     * Image Copyright FontAwesome.com
     */
     arrowCircleUp: "\uf0aa",
 	
-    /**
-     * arrow-down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-down.svg.png) arrow-down
+     * Image Copyright FontAwesome.com
     */
     arrowDown: "\uf063",
 	
-    /**
-     * arrow-left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-left.svg.png) arrow-left
+     * Image Copyright FontAwesome.com
     */
     arrowLeft: "\uf060",
 	
-    /**
-     * arrow-right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-right.svg.png) arrow-right
+     * Image Copyright FontAwesome.com
     */
     arrowRight: "\uf061",
 	
-    /**
-     * arrow-up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrow-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrow-up.svg.png) arrow-up
+     * Image Copyright FontAwesome.com
     */
     arrowUp: "\uf062",
 	
-    /**
-     * Alternate Arrows ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrows-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrows-alt.svg.png) Alternate Arrows
+     * Image Copyright FontAwesome.com
     */
     arrowsAlt: "\uf0b2",
 	
-    /**
-     * Alternate Arrows Horizontal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrows-alt-h.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrows-alt-h.svg.png) Alternate Arrows Horizontal
+     * Image Copyright FontAwesome.com
     */
     arrowsAltH: "\uf337",
 	
-    /**
-     * Alternate Arrows Vertical ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/arrows-alt-v.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/arrows-alt-v.svg.png) Alternate Arrows Vertical
+     * Image Copyright FontAwesome.com
     */
     arrowsAltV: "\uf338",
 	
-    /**
-     * Assistive Listening Systems ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/assistive-listening-systems.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/assistive-listening-systems.svg.png) Assistive Listening Systems
+     * Image Copyright FontAwesome.com
     */
     assistiveListeningSystems: "\uf2a2",
 	
-    /**
-     * asterisk ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/asterisk.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/asterisk.svg.png) asterisk
+     * Image Copyright FontAwesome.com
     */
     asterisk: "\uf069",
 	
-    /**
-     * At ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/at.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/at.svg.png) At
+     * Image Copyright FontAwesome.com
     */
     at: "\uf1fa",
 	
-    /**
-     * Atlas ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/atlas.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/atlas.svg.png) Atlas
+     * Image Copyright FontAwesome.com
     */
     atlas: "\uf558",
 	
-    /**
-     * Atom ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/atom.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/atom.svg.png) Atom
+     * Image Copyright FontAwesome.com
     */
     atom: "\uf5d2",
 	
-    /**
-     * Audio Description ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/audio-description.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/audio-description.svg.png) Audio Description
+     * Image Copyright FontAwesome.com
     */
     audioDescription: "\uf29e",
 	
-    /**
-     * Award ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/award.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/award.svg.png) Award
+     * Image Copyright FontAwesome.com
     */
     award: "\uf559",
 	
-    /**
-     * Baby ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/baby.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/baby.svg.png) Baby
+     * Image Copyright FontAwesome.com
     */
     baby: "\uf77c",
 	
-    /**
-     * Baby Carriage ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/baby-carriage.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/baby-carriage.svg.png) Baby Carriage
+     * Image Copyright FontAwesome.com
     */
     babyCarriage: "\uf77d",
 	
-    /**
-     * Backspace ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/backspace.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/backspace.svg.png) Backspace
+     * Image Copyright FontAwesome.com
     */
     backspace: "\uf55a",
 	
-    /**
-     * backward ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/backward.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/backward.svg.png) backward
+     * Image Copyright FontAwesome.com
     */
     backward: "\uf04a",
 	
-    /**
-     * Bacon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bacon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bacon.svg.png) Bacon
+     * Image Copyright FontAwesome.com
     */
     bacon: "\uf7e5",
 	
-    /**
-     * Bahá'í ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bahai.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bahai.svg.png) Bahá'í
+     * Image Copyright FontAwesome.com
     */
     bahai: "\uf666",
 	
-    /**
-     * Balance Scale ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/balance-scale.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/balance-scale.svg.png) Balance Scale
+     * Image Copyright FontAwesome.com
     */
     balanceScale: "\uf24e",
 	
-    /**
-     * Balance Scale (Left-Weighted) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/balance-scale-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/balance-scale-left.svg.png) Balance Scale (Left-Weighted)
+     * Image Copyright FontAwesome.com
     */
     balanceScaleLeft: "\uf515",
 	
-    /**
-     * Balance Scale (Right-Weighted) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/balance-scale-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/balance-scale-right.svg.png) Balance Scale (Right-Weighted)
+     * Image Copyright FontAwesome.com
     */
     balanceScaleRight: "\uf516",
 	
-    /**
-     * ban ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ban.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ban.svg.png) ban
+     * Image Copyright FontAwesome.com
     */
     ban: "\uf05e",
 	
-    /**
-     * Band-Aid ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/band-aid.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/band-aid.svg.png) Band-Aid
+     * Image Copyright FontAwesome.com
     */
     bandAid: "\uf462",
 	
-    /**
-     * barcode ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/barcode.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/barcode.svg.png) barcode
+     * Image Copyright FontAwesome.com
     */
     barcode: "\uf02a",
 	
-    /**
-     * Bars ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bars.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bars.svg.png) Bars
+     * Image Copyright FontAwesome.com
     */
     bars: "\uf0c9",
 	
-    /**
-     * Baseball Ball ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/baseball-ball.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/baseball-ball.svg.png) Baseball Ball
+     * Image Copyright FontAwesome.com
     */
     baseballBall: "\uf433",
 	
-    /**
-     * Basketball Ball ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/basketball-ball.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/basketball-ball.svg.png) Basketball Ball
+     * Image Copyright FontAwesome.com
     */
     basketballBall: "\uf434",
 	
-    /**
-     * Bath ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bath.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bath.svg.png) Bath
+     * Image Copyright FontAwesome.com
     */
     bath: "\uf2cd",
 	
-    /**
-     * Battery Empty ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/battery-empty.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/battery-empty.svg.png) Battery Empty
+     * Image Copyright FontAwesome.com
     */
     batteryEmpty: "\uf244",
 	
-    /**
-     * Battery Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/battery-full.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/battery-full.svg.png) Battery Full
+     * Image Copyright FontAwesome.com
     */
     batteryFull: "\uf240",
 	
-    /**
-     * Battery 1/2 Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/battery-half.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/battery-half.svg.png) Battery 1/2 Full
+     * Image Copyright FontAwesome.com
     */
     batteryHalf: "\uf242",
 	
-    /**
-     * Battery 1/4 Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/battery-quarter.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/battery-quarter.svg.png) Battery 1/4 Full
+     * Image Copyright FontAwesome.com
     */
     batteryQuarter: "\uf243",
 	
-    /**
-     * Battery 3/4 Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/battery-three-quarters.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/battery-three-quarters.svg.png) Battery 3/4 Full
+     * Image Copyright FontAwesome.com
     */
     batteryThreeQuarters: "\uf241",
 	
-    /**
-     * Bed ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bed.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bed.svg.png) Bed
+     * Image Copyright FontAwesome.com
     */
     bed: "\uf236",
 	
-    /**
-     * beer ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/beer.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/beer.svg.png) beer
+     * Image Copyright FontAwesome.com
     */
     beer: "\uf0fc",
 	
-    /**
-     * bell ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bell.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bell.svg.png) bell
+     * Image Copyright FontAwesome.com
     */
     bell: "\uf0f3",
 	
-    /**
-     * Bell Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bell-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bell-slash.svg.png) Bell Slash
+     * Image Copyright FontAwesome.com
     */
     bellSlash: "\uf1f6",
 	
-    /**
-     * Bezier Curve ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bezier-curve.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bezier-curve.svg.png) Bezier Curve
+     * Image Copyright FontAwesome.com
     */
     bezierCurve: "\uf55b",
 	
-    /**
-     * Bible ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bible.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bible.svg.png) Bible
+     * Image Copyright FontAwesome.com
     */
     bible: "\uf647",
 	
-    /**
-     * Bicycle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bicycle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bicycle.svg.png) Bicycle
+     * Image Copyright FontAwesome.com
     */
     bicycle: "\uf206",
 	
-    /**
-     * Biking ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/biking.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/biking.svg.png) Biking
+     * Image Copyright FontAwesome.com
     */
     biking: "\uf84a",
 	
-    /**
-     * Binoculars ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/binoculars.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/binoculars.svg.png) Binoculars
+     * Image Copyright FontAwesome.com
     */
     binoculars: "\uf1e5",
 	
-    /**
-     * Biohazard ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/biohazard.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/biohazard.svg.png) Biohazard
+     * Image Copyright FontAwesome.com
     */
     biohazard: "\uf780",
 	
-    /**
-     * Birthday Cake ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/birthday-cake.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/birthday-cake.svg.png) Birthday Cake
+     * Image Copyright FontAwesome.com
     */
     birthdayCake: "\uf1fd",
 	
-    /**
-     * Blender ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/blender.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/blender.svg.png) Blender
+     * Image Copyright FontAwesome.com
     */
     blender: "\uf517",
 	
-    /**
-     * Blender Phone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/blender-phone.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/blender-phone.svg.png) Blender Phone
+     * Image Copyright FontAwesome.com
     */
     blenderPhone: "\uf6b6",
 	
-    /**
-     * Blind ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/blind.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/blind.svg.png) Blind
+     * Image Copyright FontAwesome.com
     */
     blind: "\uf29d",
 	
-    /**
-     * Blog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/blog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/blog.svg.png) Blog
+     * Image Copyright FontAwesome.com
     */
     blog: "\uf781",
 	
-    /**
-     * bold ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bold.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bold.svg.png) bold
+     * Image Copyright FontAwesome.com
     */
     bold: "\uf032",
 	
-    /**
-     * Lightning Bolt ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bolt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bolt.svg.png) Lightning Bolt
+     * Image Copyright FontAwesome.com
     */
     bolt: "\uf0e7",
 	
-    /**
-     * Bomb ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bomb.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bomb.svg.png) Bomb
+     * Image Copyright FontAwesome.com
     */
     bomb: "\uf1e2",
 	
-    /**
-     * Bone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bone.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bone.svg.png) Bone
+     * Image Copyright FontAwesome.com
     */
     bone: "\uf5d7",
 	
-    /**
-     * Bong ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bong.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bong.svg.png) Bong
+     * Image Copyright FontAwesome.com
     */
     bong: "\uf55c",
 	
-    /**
-     * book ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/book.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/book.svg.png) book
+     * Image Copyright FontAwesome.com
     */
     book: "\uf02d",
 	
-    /**
-     * Book of the Dead ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/book-dead.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/book-dead.svg.png) Book of the Dead
+     * Image Copyright FontAwesome.com
     */
     bookDead: "\uf6b7",
 	
-    /**
-     * Medical Book ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/book-medical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/book-medical.svg.png) Medical Book
+     * Image Copyright FontAwesome.com
     */
     bookMedical: "\uf7e6",
 	
-    /**
-     * Book Open ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/book-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/book-open.svg.png) Book Open
+     * Image Copyright FontAwesome.com
     */
     bookOpen: "\uf518",
 	
-    /**
-     * Book Reader ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/book-reader.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/book-reader.svg.png) Book Reader
+     * Image Copyright FontAwesome.com
     */
     bookReader: "\uf5da",
 	
-    /**
-     * bookmark ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bookmark.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bookmark.svg.png) bookmark
+     * Image Copyright FontAwesome.com
     */
     bookmark: "\uf02e",
 	
-    /**
-     * Border All ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/border-all.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/border-all.svg.png) Border All
+     * Image Copyright FontAwesome.com
     */
     borderAll: "\uf84c",
 	
-    /**
-     * Border None ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/border-none.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/border-none.svg.png) Border None
+     * Image Copyright FontAwesome.com
     */
     borderNone: "\uf850",
 	
-    /**
-     * Border Style ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/border-style.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/border-style.svg.png) Border Style
+     * Image Copyright FontAwesome.com
     */
     borderStyle: "\uf853",
 	
-    /**
-     * Bowling Ball ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bowling-ball.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bowling-ball.svg.png) Bowling Ball
+     * Image Copyright FontAwesome.com
     */
     bowlingBall: "\uf436",
 	
-    /**
-     * Box ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/box.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/box.svg.png) Box
+     * Image Copyright FontAwesome.com
     */
     box: "\uf466",
 	
-    /**
-     * Box Open ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/box-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/box-open.svg.png) Box Open
+     * Image Copyright FontAwesome.com
     */
     boxOpen: "\uf49e",
 	
-    /**
-     * Boxes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/boxes.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/boxes.svg.png) Boxes
+     * Image Copyright FontAwesome.com
     */
     boxes: "\uf468",
 	
-    /**
-     * Braille ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/braille.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/braille.svg.png) Braille
+     * Image Copyright FontAwesome.com
     */
     braille: "\uf2a1",
 	
-    /**
-     * Brain ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/brain.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/brain.svg.png) Brain
+     * Image Copyright FontAwesome.com
     */
     brain: "\uf5dc",
 	
-    /**
-     * Bread Slice ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bread-slice.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bread-slice.svg.png) Bread Slice
+     * Image Copyright FontAwesome.com
     */
     breadSlice: "\uf7ec",
 	
-    /**
-     * Briefcase ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/briefcase.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/briefcase.svg.png) Briefcase
+     * Image Copyright FontAwesome.com
     */
     briefcase: "\uf0b1",
 	
-    /**
-     * Medical Briefcase ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/briefcase-medical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/briefcase-medical.svg.png) Medical Briefcase
+     * Image Copyright FontAwesome.com
     */
     briefcaseMedical: "\uf469",
 	
-    /**
-     * Broadcast Tower ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/broadcast-tower.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/broadcast-tower.svg.png) Broadcast Tower
+     * Image Copyright FontAwesome.com
     */
     broadcastTower: "\uf519",
 	
-    /**
-     * Broom ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/broom.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/broom.svg.png) Broom
+     * Image Copyright FontAwesome.com
     */
     broom: "\uf51a",
 	
-    /**
-     * Brush ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/brush.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/brush.svg.png) Brush
+     * Image Copyright FontAwesome.com
     */
     brush: "\uf55d",
 	
-    /**
-     * Bug ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bug.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bug.svg.png) Bug
+     * Image Copyright FontAwesome.com
     */
     bug: "\uf188",
 	
-    /**
-     * Building ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/building.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/building.svg.png) Building
+     * Image Copyright FontAwesome.com
     */
     building: "\uf1ad",
 	
-    /**
-     * bullhorn ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bullhorn.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bullhorn.svg.png) bullhorn
+     * Image Copyright FontAwesome.com
     */
     bullhorn: "\uf0a1",
 	
-    /**
-     * Bullseye ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bullseye.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bullseye.svg.png) Bullseye
+     * Image Copyright FontAwesome.com
     */
     bullseye: "\uf140",
 	
-    /**
-     * Burn ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/burn.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/burn.svg.png) Burn
+     * Image Copyright FontAwesome.com
     */
     burn: "\uf46a",
 	
-    /**
-     * Bus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bus.svg.png) Bus
+     * Image Copyright FontAwesome.com
     */
     bus: "\uf207",
 	
-    /**
-     * Bus Alt ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/bus-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/bus-alt.svg.png) Bus Alt
+     * Image Copyright FontAwesome.com
     */
     busAlt: "\uf55e",
 	
-    /**
-     * Business Time ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/business-time.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/business-time.svg.png) Business Time
+     * Image Copyright FontAwesome.com
     */
     businessTime: "\uf64a",
 	
-    /**
-     * Calculator ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calculator.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calculator.svg.png) Calculator
+     * Image Copyright FontAwesome.com
     */
     calculator: "\uf1ec",
 	
-    /**
-     * Calendar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar.svg.png) Calendar
+     * Image Copyright FontAwesome.com
     */
     calendar: "\uf133",
 	
-    /**
-     * Alternate Calendar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar-alt.svg.png) Alternate Calendar
+     * Image Copyright FontAwesome.com
     */
     calendarAlt: "\uf073",
 	
-    /**
-     * Calendar Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar-check.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar-check.svg.png) Calendar Check
+     * Image Copyright FontAwesome.com
     */
     calendarCheck: "\uf274",
 	
-    /**
-     * Calendar with Day Focus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar-day.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar-day.svg.png) Calendar with Day Focus
+     * Image Copyright FontAwesome.com
     */
     calendarDay: "\uf783",
 	
-    /**
-     * Calendar Minus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar-minus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar-minus.svg.png) Calendar Minus
+     * Image Copyright FontAwesome.com
     */
     calendarMinus: "\uf272",
 	
-    /**
-     * Calendar Plus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar-plus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar-plus.svg.png) Calendar Plus
+     * Image Copyright FontAwesome.com
     */
     calendarPlus: "\uf271",
 	
-    /**
-     * Calendar Times ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar-times.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar-times.svg.png) Calendar Times
+     * Image Copyright FontAwesome.com
     */
     calendarTimes: "\uf273",
 	
-    /**
-     * Calendar with Week Focus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/calendar-week.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/calendar-week.svg.png) Calendar with Week Focus
+     * Image Copyright FontAwesome.com
     */
     calendarWeek: "\uf784",
 	
-    /**
-     * camera ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/camera.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/camera.svg.png) camera
+     * Image Copyright FontAwesome.com
     */
     camera: "\uf030",
 	
-    /**
-     * Retro Camera ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/camera-retro.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/camera-retro.svg.png) Retro Camera
+     * Image Copyright FontAwesome.com
     */
     cameraRetro: "\uf083",
 	
-    /**
-     * Campground ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/campground.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/campground.svg.png) Campground
+     * Image Copyright FontAwesome.com
     */
     campground: "\uf6bb",
 	
-    /**
-     * Candy Cane ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/candy-cane.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/candy-cane.svg.png) Candy Cane
+     * Image Copyright FontAwesome.com
     */
     candyCane: "\uf786",
 	
-    /**
-     * Cannabis ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cannabis.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cannabis.svg.png) Cannabis
+     * Image Copyright FontAwesome.com
     */
     cannabis: "\uf55f",
 	
-    /**
-     * Capsules ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/capsules.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/capsules.svg.png) Capsules
+     * Image Copyright FontAwesome.com
     */
     capsules: "\uf46b",
 	
-    /**
-     * Car ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/car.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/car.svg.png) Car
+     * Image Copyright FontAwesome.com
     */
     car: "\uf1b9",
 	
-    /**
-     * Alternate Car ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/car-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/car-alt.svg.png) Alternate Car
+     * Image Copyright FontAwesome.com
     */
     carAlt: "\uf5de",
 	
-    /**
-     * Car Battery ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/car-battery.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/car-battery.svg.png) Car Battery
+     * Image Copyright FontAwesome.com
     */
     carBattery: "\uf5df",
 	
-    /**
-     * Car Crash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/car-crash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/car-crash.svg.png) Car Crash
+     * Image Copyright FontAwesome.com
     */
     carCrash: "\uf5e1",
 	
-    /**
-     * Car Side ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/car-side.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/car-side.svg.png) Car Side
+     * Image Copyright FontAwesome.com
     */
     carSide: "\uf5e4",
 	
-    /**
-     * Caravan ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caravan.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caravan.svg.png) Caravan
+     * Image Copyright FontAwesome.com
     */
     caravan: "\uf8ff",
 	
-    /**
-     * Caret Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-down.svg.png) Caret Down
+     * Image Copyright FontAwesome.com
     */
     caretDown: "\uf0d7",
 	
-    /**
-     * Caret Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-left.svg.png) Caret Left
+     * Image Copyright FontAwesome.com
     */
     caretLeft: "\uf0d9",
 	
-    /**
-     * Caret Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-right.svg.png) Caret Right
+     * Image Copyright FontAwesome.com
     */
     caretRight: "\uf0da",
 	
-    /**
-     * Caret Square Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-square-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-square-down.svg.png) Caret Square Down
+     * Image Copyright FontAwesome.com
     */
     caretSquareDown: "\uf150",
 	
-    /**
-     * Caret Square Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-square-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-square-left.svg.png) Caret Square Left
+     * Image Copyright FontAwesome.com
     */
     caretSquareLeft: "\uf191",
 	
-    /**
-     * Caret Square Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-square-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-square-right.svg.png) Caret Square Right
+     * Image Copyright FontAwesome.com
     */
     caretSquareRight: "\uf152",
 	
-    /**
-     * Caret Square Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-square-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-square-up.svg.png) Caret Square Up
+     * Image Copyright FontAwesome.com
     */
     caretSquareUp: "\uf151",
 	
-    /**
-     * Caret Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/caret-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/caret-up.svg.png) Caret Up
+     * Image Copyright FontAwesome.com
     */
     caretUp: "\uf0d8",
 	
-    /**
-     * Carrot ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/carrot.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/carrot.svg.png) Carrot
+     * Image Copyright FontAwesome.com
     */
     carrot: "\uf787",
 	
-    /**
-     * Shopping Cart Arrow Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cart-arrow-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cart-arrow-down.svg.png) Shopping Cart Arrow Down
+     * Image Copyright FontAwesome.com
     */
     cartArrowDown: "\uf218",
 	
-    /**
-     * Add to Shopping Cart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cart-plus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cart-plus.svg.png) Add to Shopping Cart
+     * Image Copyright FontAwesome.com
     */
     cartPlus: "\uf217",
 	
-    /**
-     * Cash Register ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cash-register.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cash-register.svg.png) Cash Register
+     * Image Copyright FontAwesome.com
     */
     cashRegister: "\uf788",
 	
-    /**
-     * Cat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cat.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cat.svg.png) Cat
+     * Image Copyright FontAwesome.com
     */
     cat: "\uf6be",
 	
-    /**
-     * certificate ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/certificate.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/certificate.svg.png) certificate
+     * Image Copyright FontAwesome.com
     */
     certificate: "\uf0a3",
 	
-    /**
-     * Chair ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chair.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chair.svg.png) Chair
+     * Image Copyright FontAwesome.com
     */
     chair: "\uf6c0",
 	
-    /**
-     * Chalkboard ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chalkboard.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chalkboard.svg.png) Chalkboard
+     * Image Copyright FontAwesome.com
     */
     chalkboard: "\uf51b",
 	
-    /**
-     * Chalkboard Teacher ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chalkboard-teacher.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chalkboard-teacher.svg.png) Chalkboard Teacher
+     * Image Copyright FontAwesome.com
     */
     chalkboardTeacher: "\uf51c",
 	
-    /**
-     * Charging Station ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/charging-station.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/charging-station.svg.png) Charging Station
+     * Image Copyright FontAwesome.com
     */
     chargingStation: "\uf5e7",
 	
-    /**
-     * Area Chart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chart-area.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chart-area.svg.png) Area Chart
+     * Image Copyright FontAwesome.com
     */
     chartArea: "\uf1fe",
 	
-    /**
-     * Bar Chart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chart-bar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chart-bar.svg.png) Bar Chart
+     * Image Copyright FontAwesome.com
     */
     chartBar: "\uf080",
 	
-    /**
-     * Line Chart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chart-line.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chart-line.svg.png) Line Chart
+     * Image Copyright FontAwesome.com
     */
     chartLine: "\uf201",
 	
-    /**
-     * Pie Chart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chart-pie.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chart-pie.svg.png) Pie Chart
+     * Image Copyright FontAwesome.com
     */
     chartPie: "\uf200",
 	
-    /**
-     * Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/check.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/check.svg.png) Check
+     * Image Copyright FontAwesome.com
     */
     check: "\uf00c",
 	
-    /**
-     * Check Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/check-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/check-circle.svg.png) Check Circle
+     * Image Copyright FontAwesome.com
     */
     checkCircle: "\uf058",
 	
-    /**
-     * Double Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/check-double.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/check-double.svg.png) Double Check
+     * Image Copyright FontAwesome.com
     */
     checkDouble: "\uf560",
 	
-    /**
-     * Check Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/check-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/check-square.svg.png) Check Square
+     * Image Copyright FontAwesome.com
     */
     checkSquare: "\uf14a",
 	
-    /**
-     * Cheese ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cheese.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cheese.svg.png) Cheese
+     * Image Copyright FontAwesome.com
     */
     cheese: "\uf7ef",
 	
-    /**
-     * Chess ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess.svg.png) Chess
+     * Image Copyright FontAwesome.com
     */
     chess: "\uf439",
 	
-    /**
-     * Chess Bishop ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess-bishop.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess-bishop.svg.png) Chess Bishop
+     * Image Copyright FontAwesome.com
     */
     chessBishop: "\uf43a",
 	
-    /**
-     * Chess Board ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess-board.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess-board.svg.png) Chess Board
+     * Image Copyright FontAwesome.com
     */
     chessBoard: "\uf43c",
 	
-    /**
-     * Chess King ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess-king.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess-king.svg.png) Chess King
+     * Image Copyright FontAwesome.com
     */
     chessKing: "\uf43f",
 	
-    /**
-     * Chess Knight ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess-knight.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess-knight.svg.png) Chess Knight
+     * Image Copyright FontAwesome.com
     */
     chessKnight: "\uf441",
 	
-    /**
-     * Chess Pawn ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess-pawn.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess-pawn.svg.png) Chess Pawn
+     * Image Copyright FontAwesome.com
     */
     chessPawn: "\uf443",
 	
-    /**
-     * Chess Queen ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess-queen.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess-queen.svg.png) Chess Queen
+     * Image Copyright FontAwesome.com
     */
     chessQueen: "\uf445",
 	
-    /**
-     * Chess Rook ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chess-rook.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chess-rook.svg.png) Chess Rook
+     * Image Copyright FontAwesome.com
     */
     chessRook: "\uf447",
 	
-    /**
-     * Chevron Circle Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-circle-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-circle-down.svg.png) Chevron Circle Down
+     * Image Copyright FontAwesome.com
     */
     chevronCircleDown: "\uf13a",
 	
-    /**
-     * Chevron Circle Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-circle-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-circle-left.svg.png) Chevron Circle Left
+     * Image Copyright FontAwesome.com
     */
     chevronCircleLeft: "\uf137",
 	
-    /**
-     * Chevron Circle Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-circle-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-circle-right.svg.png) Chevron Circle Right
+     * Image Copyright FontAwesome.com
     */
     chevronCircleRight: "\uf138",
 	
-    /**
-     * Chevron Circle Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-circle-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-circle-up.svg.png) Chevron Circle Up
+     * Image Copyright FontAwesome.com
     */
     chevronCircleUp: "\uf139",
 	
-    /**
-     * chevron-down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-down.svg.png) chevron-down
+     * Image Copyright FontAwesome.com
     */
     chevronDown: "\uf078",
 	
-    /**
-     * chevron-left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-left.svg.png) chevron-left
+     * Image Copyright FontAwesome.com
     */
     chevronLeft: "\uf053",
 	
-    /**
-     * chevron-right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-right.svg.png) chevron-right
+     * Image Copyright FontAwesome.com
     */
     chevronRight: "\uf054",
 	
-    /**
-     * chevron-up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/chevron-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/chevron-up.svg.png) chevron-up
+     * Image Copyright FontAwesome.com
     */
     chevronUp: "\uf077",
 	
-    /**
-     * Child ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/child.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/child.svg.png) Child
+     * Image Copyright FontAwesome.com
     */
     child: "\uf1ae",
 	
-    /**
-     * Church ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/church.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/church.svg.png) Church
+     * Image Copyright FontAwesome.com
     */
     church: "\uf51d",
 	
-    /**
-     * Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/circle.svg.png) Circle
+     * Image Copyright FontAwesome.com
     */
     circle: "\uf111",
 	
-    /**
-     * Circle Notched ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/circle-notch.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/circle-notch.svg.png) Circle Notched
+     * Image Copyright FontAwesome.com
     */
     circleNotch: "\uf1ce",
 	
-    /**
-     * City ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/city.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/city.svg.png) City
+     * Image Copyright FontAwesome.com
     */
     city: "\uf64f",
 	
-    /**
-     * Medical Clinic ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/clinic-medical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/clinic-medical.svg.png) Medical Clinic
+     * Image Copyright FontAwesome.com
     */
     clinicMedical: "\uf7f2",
 	
-    /**
-     * Clipboard ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/clipboard.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/clipboard.svg.png) Clipboard
+     * Image Copyright FontAwesome.com
     */
     clipboard: "\uf328",
 	
-    /**
-     * Clipboard with Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/clipboard-check.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/clipboard-check.svg.png) Clipboard with Check
+     * Image Copyright FontAwesome.com
     */
     clipboardCheck: "\uf46c",
 	
-    /**
-     * Clipboard List ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/clipboard-list.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/clipboard-list.svg.png) Clipboard List
+     * Image Copyright FontAwesome.com
     */
     clipboardList: "\uf46d",
 	
-    /**
-     * Clock ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/clock.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/clock.svg.png) Clock
+     * Image Copyright FontAwesome.com
     */
     clock: "\uf017",
 	
-    /**
-     * Clone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/clone.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/clone.svg.png) Clone
+     * Image Copyright FontAwesome.com
     */
     clone: "\uf24d",
 	
-    /**
-     * Closed Captioning ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/closed-captioning.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/closed-captioning.svg.png) Closed Captioning
+     * Image Copyright FontAwesome.com
     */
     closedCaptioning: "\uf20a",
 	
-    /**
-     * Cloud ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud.svg.png) Cloud
+     * Image Copyright FontAwesome.com
     */
     cloud: "\uf0c2",
 	
-    /**
-     * Alternate Cloud Download ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-download-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-download-alt.svg.png) Alternate Cloud Download
+     * Image Copyright FontAwesome.com
     */
     cloudDownloadAlt: "\uf381",
 	
-    /**
-     * Cloud with (a chance of) Meatball ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-meatball.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-meatball.svg.png) Cloud with (a chance of) Meatball
+     * Image Copyright FontAwesome.com
     */
     cloudMeatball: "\uf73b",
 	
-    /**
-     * Cloud with Moon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-moon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-moon.svg.png) Cloud with Moon
+     * Image Copyright FontAwesome.com
     */
     cloudMoon: "\uf6c3",
 	
-    /**
-     * Cloud with Moon and Rain ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-moon-rain.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-moon-rain.svg.png) Cloud with Moon and Rain
+     * Image Copyright FontAwesome.com
     */
     cloudMoonRain: "\uf73c",
 	
-    /**
-     * Cloud with Rain ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-rain.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-rain.svg.png) Cloud with Rain
+     * Image Copyright FontAwesome.com
     */
     cloudRain: "\uf73d",
 	
-    /**
-     * Cloud with Heavy Showers ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-showers-heavy.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-showers-heavy.svg.png) Cloud with Heavy Showers
+     * Image Copyright FontAwesome.com
     */
     cloudShowersHeavy: "\uf740",
 	
-    /**
-     * Cloud with Sun ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-sun.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-sun.svg.png) Cloud with Sun
+     * Image Copyright FontAwesome.com
     */
     cloudSun: "\uf6c4",
 	
-    /**
-     * Cloud with Sun and Rain ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-sun-rain.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-sun-rain.svg.png) Cloud with Sun and Rain
+     * Image Copyright FontAwesome.com
     */
     cloudSunRain: "\uf743",
 	
-    /**
-     * Alternate Cloud Upload ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cloud-upload-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cloud-upload-alt.svg.png) Alternate Cloud Upload
+     * Image Copyright FontAwesome.com
     */
     cloudUploadAlt: "\uf382",
 	
-    /**
-     * Cocktail ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cocktail.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cocktail.svg.png) Cocktail
+     * Image Copyright FontAwesome.com
     */
     cocktail: "\uf561",
 	
-    /**
-     * Code ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/code.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/code.svg.png) Code
+     * Image Copyright FontAwesome.com
     */
     code: "\uf121",
 	
-    /**
-     * Code Branch ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/code-branch.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/code-branch.svg.png) Code Branch
+     * Image Copyright FontAwesome.com
     */
     codeBranch: "\uf126",
 	
-    /**
-     * Coffee ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/coffee.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/coffee.svg.png) Coffee
+     * Image Copyright FontAwesome.com
     */
     coffee: "\uf0f4",
 	
-    /**
-     * cog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cog.svg.png) cog
+     * Image Copyright FontAwesome.com
     */
     cog: "\uf013",
 	
-    /**
-     * cogs ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cogs.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cogs.svg.png) cogs
+     * Image Copyright FontAwesome.com
     */
     cogs: "\uf085",
 	
-    /**
-     * Coins ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/coins.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/coins.svg.png) Coins
+     * Image Copyright FontAwesome.com
     */
     coins: "\uf51e",
 	
-    /**
-     * Columns ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/columns.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/columns.svg.png) Columns
+     * Image Copyright FontAwesome.com
     */
     columns: "\uf0db",
 	
-    /**
-     * comment ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comment.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comment.svg.png) comment
+     * Image Copyright FontAwesome.com
     */
     comment: "\uf075",
 	
-    /**
-     * Alternate Comment ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comment-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comment-alt.svg.png) Alternate Comment
+     * Image Copyright FontAwesome.com
     */
     commentAlt: "\uf27a",
 	
-    /**
-     * Comment Dollar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comment-dollar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comment-dollar.svg.png) Comment Dollar
+     * Image Copyright FontAwesome.com
     */
     commentDollar: "\uf651",
 	
-    /**
-     * Comment Dots ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comment-dots.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comment-dots.svg.png) Comment Dots
+     * Image Copyright FontAwesome.com
     */
     commentDots: "\uf4ad",
 	
-    /**
-     * Alternate Medical Chat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comment-medical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comment-medical.svg.png) Alternate Medical Chat
+     * Image Copyright FontAwesome.com
     */
     commentMedical: "\uf7f5",
 	
-    /**
-     * Comment Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comment-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comment-slash.svg.png) Comment Slash
+     * Image Copyright FontAwesome.com
     */
     commentSlash: "\uf4b3",
 	
-    /**
-     * comments ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comments.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comments.svg.png) comments
+     * Image Copyright FontAwesome.com
     */
     comments: "\uf086",
 	
-    /**
-     * Comments Dollar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/comments-dollar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/comments-dollar.svg.png) Comments Dollar
+     * Image Copyright FontAwesome.com
     */
     commentsDollar: "\uf653",
 	
-    /**
-     * Compact Disc ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/compact-disc.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/compact-disc.svg.png) Compact Disc
+     * Image Copyright FontAwesome.com
     */
     compactDisc: "\uf51f",
 	
-    /**
-     * Compass ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/compass.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/compass.svg.png) Compass
+     * Image Copyright FontAwesome.com
     */
     compass: "\uf14e",
 	
-    /**
-     * Compress ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/compress.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/compress.svg.png) Compress
+     * Image Copyright FontAwesome.com
     */
     compress: "\uf066",
 	
-    /**
-     * Alternate Compress ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/compress-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/compress-alt.svg.png) Alternate Compress
+     * Image Copyright FontAwesome.com
     */
     compressAlt: "\uf422",
 	
-    /**
-     * Alternate Compress Arrows ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/compress-arrows-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/compress-arrows-alt.svg.png) Alternate Compress Arrows
+     * Image Copyright FontAwesome.com
     */
     compressArrowsAlt: "\uf78c",
 	
-    /**
-     * Concierge Bell ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/concierge-bell.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/concierge-bell.svg.png) Concierge Bell
+     * Image Copyright FontAwesome.com
     */
     conciergeBell: "\uf562",
 	
-    /**
-     * Cookie ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cookie.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cookie.svg.png) Cookie
+     * Image Copyright FontAwesome.com
     */
     cookie: "\uf563",
 	
-    /**
-     * Cookie Bite ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cookie-bite.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cookie-bite.svg.png) Cookie Bite
+     * Image Copyright FontAwesome.com
     */
     cookieBite: "\uf564",
 	
-    /**
-     * Copy ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/copy.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/copy.svg.png) Copy
+     * Image Copyright FontAwesome.com
     */
     copy: "\uf0c5",
 	
-    /**
-     * Copyright ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/copyright.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/copyright.svg.png) Copyright
+     * Image Copyright FontAwesome.com
     */
     copyright: "\uf1f9",
 	
-    /**
-     * Couch ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/couch.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/couch.svg.png) Couch
+     * Image Copyright FontAwesome.com
     */
     couch: "\uf4b8",
 	
-    /**
-     * Credit Card ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/credit-card.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/credit-card.svg.png) Credit Card
+     * Image Copyright FontAwesome.com
     */
     creditCard: "\uf09d",
 	
-    /**
-     * crop ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/crop.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/crop.svg.png) crop
+     * Image Copyright FontAwesome.com
     */
     crop: "\uf125",
 	
-    /**
-     * Alternate Crop ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/crop-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/crop-alt.svg.png) Alternate Crop
+     * Image Copyright FontAwesome.com
     */
     cropAlt: "\uf565",
 	
-    /**
-     * Cross ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cross.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cross.svg.png) Cross
+     * Image Copyright FontAwesome.com
     */
     cross: "\uf654",
 	
-    /**
-     * Crosshairs ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/crosshairs.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/crosshairs.svg.png) Crosshairs
+     * Image Copyright FontAwesome.com
     */
     crosshairs: "\uf05b",
 	
-    /**
-     * Crow ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/crow.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/crow.svg.png) Crow
+     * Image Copyright FontAwesome.com
     */
     crow: "\uf520",
 	
-    /**
-     * Crown ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/crown.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/crown.svg.png) Crown
+     * Image Copyright FontAwesome.com
     */
     crown: "\uf521",
 	
-    /**
-     * Crutch ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/crutch.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/crutch.svg.png) Crutch
+     * Image Copyright FontAwesome.com
     */
     crutch: "\uf7f7",
 	
-    /**
-     * Cube ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cube.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cube.svg.png) Cube
+     * Image Copyright FontAwesome.com
     */
     cube: "\uf1b2",
 	
-    /**
-     * Cubes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cubes.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cubes.svg.png) Cubes
+     * Image Copyright FontAwesome.com
     */
     cubes: "\uf1b3",
 	
-    /**
-     * Cut ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/cut.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/cut.svg.png) Cut
+     * Image Copyright FontAwesome.com
     */
     cut: "\uf0c4",
 	
-    /**
-     * Database ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/database.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/database.svg.png) Database
+     * Image Copyright FontAwesome.com
     */
     database: "\uf1c0",
 	
-    /**
-     * Deaf ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/deaf.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/deaf.svg.png) Deaf
+     * Image Copyright FontAwesome.com
     */
     deaf: "\uf2a4",
 	
-    /**
-     * Democrat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/democrat.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/democrat.svg.png) Democrat
+     * Image Copyright FontAwesome.com
     */
     democrat: "\uf747",
 	
-    /**
-     * Desktop ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/desktop.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/desktop.svg.png) Desktop
+     * Image Copyright FontAwesome.com
     */
     desktop: "\uf108",
 	
-    /**
-     * Dharmachakra ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dharmachakra.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dharmachakra.svg.png) Dharmachakra
+     * Image Copyright FontAwesome.com
     */
     dharmachakra: "\uf655",
 	
-    /**
-     * Diagnoses ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/diagnoses.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/diagnoses.svg.png) Diagnoses
+     * Image Copyright FontAwesome.com
     */
     diagnoses: "\uf470",
 	
-    /**
-     * Dice ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice.svg.png) Dice
+     * Image Copyright FontAwesome.com
     */
     dice: "\uf522",
 	
-    /**
-     * Dice D20 ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-d20.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-d20.svg.png) Dice D20
+     * Image Copyright FontAwesome.com
     */
     diceD20: "\uf6cf",
 	
-    /**
-     * Dice D6 ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-d6.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-d6.svg.png) Dice D6
+     * Image Copyright FontAwesome.com
     */
     diceD6: "\uf6d1",
 	
-    /**
-     * Dice Five ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-five.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-five.svg.png) Dice Five
+     * Image Copyright FontAwesome.com
     */
     diceFive: "\uf523",
 	
-    /**
-     * Dice Four ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-four.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-four.svg.png) Dice Four
+     * Image Copyright FontAwesome.com
     */
     diceFour: "\uf524",
 	
-    /**
-     * Dice One ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-one.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-one.svg.png) Dice One
+     * Image Copyright FontAwesome.com
     */
     diceOne: "\uf525",
 	
-    /**
-     * Dice Six ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-six.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-six.svg.png) Dice Six
+     * Image Copyright FontAwesome.com
     */
     diceSix: "\uf526",
 	
-    /**
-     * Dice Three ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-three.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-three.svg.png) Dice Three
+     * Image Copyright FontAwesome.com
     */
     diceThree: "\uf527",
 	
-    /**
-     * Dice Two ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dice-two.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dice-two.svg.png) Dice Two
+     * Image Copyright FontAwesome.com
     */
     diceTwo: "\uf528",
 	
-    /**
-     * Digital Tachograph ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/digital-tachograph.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/digital-tachograph.svg.png) Digital Tachograph
+     * Image Copyright FontAwesome.com
     */
     digitalTachograph: "\uf566",
 	
-    /**
-     * Directions ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/directions.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/directions.svg.png) Directions
+     * Image Copyright FontAwesome.com
     */
     directions: "\uf5eb",
 	
-    /**
-     * Divide ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/divide.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/divide.svg.png) Divide
+     * Image Copyright FontAwesome.com
     */
     divide: "\uf529",
 	
-    /**
-     * Dizzy Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dizzy.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dizzy.svg.png) Dizzy Face
+     * Image Copyright FontAwesome.com
     */
     dizzy: "\uf567",
 	
-    /**
-     * DNA ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dna.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dna.svg.png) DNA
+     * Image Copyright FontAwesome.com
     */
     dna: "\uf471",
 	
-    /**
-     * Dog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dog.svg.png) Dog
+     * Image Copyright FontAwesome.com
     */
     dog: "\uf6d3",
 	
-    /**
-     * Dollar Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dollar-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dollar-sign.svg.png) Dollar Sign
+     * Image Copyright FontAwesome.com
     */
     dollarSign: "\uf155",
 	
-    /**
-     * Dolly ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dolly.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dolly.svg.png) Dolly
+     * Image Copyright FontAwesome.com
     */
     dolly: "\uf472",
 	
-    /**
-     * Dolly Flatbed ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dolly-flatbed.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dolly-flatbed.svg.png) Dolly Flatbed
+     * Image Copyright FontAwesome.com
     */
     dollyFlatbed: "\uf474",
 	
-    /**
-     * Donate ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/donate.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/donate.svg.png) Donate
+     * Image Copyright FontAwesome.com
     */
     donate: "\uf4b9",
 	
-    /**
-     * Door Closed ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/door-closed.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/door-closed.svg.png) Door Closed
+     * Image Copyright FontAwesome.com
     */
     doorClosed: "\uf52a",
 	
-    /**
-     * Door Open ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/door-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/door-open.svg.png) Door Open
+     * Image Copyright FontAwesome.com
     */
     doorOpen: "\uf52b",
 	
-    /**
-     * Dot Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dot-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dot-circle.svg.png) Dot Circle
+     * Image Copyright FontAwesome.com
     */
     dotCircle: "\uf192",
 	
-    /**
-     * Dove ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dove.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dove.svg.png) Dove
+     * Image Copyright FontAwesome.com
     */
     dove: "\uf4ba",
 	
-    /**
-     * Download ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/download.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/download.svg.png) Download
+     * Image Copyright FontAwesome.com
     */
     download: "\uf019",
 	
-    /**
-     * Drafting Compass ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/drafting-compass.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/drafting-compass.svg.png) Drafting Compass
+     * Image Copyright FontAwesome.com
     */
     draftingCompass: "\uf568",
 	
-    /**
-     * Dragon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dragon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dragon.svg.png) Dragon
+     * Image Copyright FontAwesome.com
     */
     dragon: "\uf6d5",
 	
-    /**
-     * Draw Polygon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/draw-polygon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/draw-polygon.svg.png) Draw Polygon
+     * Image Copyright FontAwesome.com
     */
     drawPolygon: "\uf5ee",
 	
-    /**
-     * Drum ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/drum.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/drum.svg.png) Drum
+     * Image Copyright FontAwesome.com
     */
     drum: "\uf569",
 	
-    /**
-     * Drum Steelpan ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/drum-steelpan.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/drum-steelpan.svg.png) Drum Steelpan
+     * Image Copyright FontAwesome.com
     */
     drumSteelpan: "\uf56a",
 	
-    /**
-     * Drumstick with Bite Taken Out ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/drumstick-bite.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/drumstick-bite.svg.png) Drumstick with Bite Taken Out
+     * Image Copyright FontAwesome.com
     */
     drumstickBite: "\uf6d7",
 	
-    /**
-     * Dumbbell ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dumbbell.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dumbbell.svg.png) Dumbbell
+     * Image Copyright FontAwesome.com
     */
     dumbbell: "\uf44b",
 	
-    /**
-     * Dumpster ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dumpster.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dumpster.svg.png) Dumpster
+     * Image Copyright FontAwesome.com
     */
     dumpster: "\uf793",
 	
-    /**
-     * Dumpster Fire ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dumpster-fire.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dumpster-fire.svg.png) Dumpster Fire
+     * Image Copyright FontAwesome.com
     */
     dumpsterFire: "\uf794",
 	
-    /**
-     * Dungeon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/dungeon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/dungeon.svg.png) Dungeon
+     * Image Copyright FontAwesome.com
     */
     dungeon: "\uf6d9",
 	
-    /**
-     * Edit ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/edit.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/edit.svg.png) Edit
+     * Image Copyright FontAwesome.com
     */
     edit: "\uf044",
 	
-    /**
-     * Egg ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/egg.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/egg.svg.png) Egg
+     * Image Copyright FontAwesome.com
     */
     egg: "\uf7fb",
 	
-    /**
-     * eject ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/eject.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/eject.svg.png) eject
+     * Image Copyright FontAwesome.com
     */
     eject: "\uf052",
 	
-    /**
-     * Horizontal Ellipsis ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ellipsis-h.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ellipsis-h.svg.png) Horizontal Ellipsis
+     * Image Copyright FontAwesome.com
     */
     ellipsisH: "\uf141",
 	
-    /**
-     * Vertical Ellipsis ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ellipsis-v.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ellipsis-v.svg.png) Vertical Ellipsis
+     * Image Copyright FontAwesome.com
     */
     ellipsisV: "\uf142",
 	
-    /**
-     * Envelope ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/envelope.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/envelope.svg.png) Envelope
+     * Image Copyright FontAwesome.com
     */
     envelope: "\uf0e0",
 	
-    /**
-     * Envelope Open ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/envelope-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/envelope-open.svg.png) Envelope Open
+     * Image Copyright FontAwesome.com
     */
     envelopeOpen: "\uf2b6",
 	
-    /**
-     * Envelope Open-text ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/envelope-open-text.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/envelope-open-text.svg.png) Envelope Open-text
+     * Image Copyright FontAwesome.com
     */
     envelopeOpenText: "\uf658",
 	
-    /**
-     * Envelope Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/envelope-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/envelope-square.svg.png) Envelope Square
+     * Image Copyright FontAwesome.com
     */
     envelopeSquare: "\uf199",
 	
-    /**
-     * Equals ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/equals.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/equals.svg.png) Equals
+     * Image Copyright FontAwesome.com
     */
     equals: "\uf52c",
 	
-    /**
-     * eraser ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/eraser.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/eraser.svg.png) eraser
+     * Image Copyright FontAwesome.com
     */
     eraser: "\uf12d",
 	
-    /**
-     * Ethernet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ethernet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ethernet.svg.png) Ethernet
+     * Image Copyright FontAwesome.com
     */
     ethernet: "\uf796",
 	
-    /**
-     * Euro Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/euro-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/euro-sign.svg.png) Euro Sign
+     * Image Copyright FontAwesome.com
     */
     euroSign: "\uf153",
 	
-    /**
-     * Alternate Exchange ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/exchange-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/exchange-alt.svg.png) Alternate Exchange
+     * Image Copyright FontAwesome.com
     */
     exchangeAlt: "\uf362",
 	
-    /**
-     * exclamation ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/exclamation.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/exclamation.svg.png) exclamation
+     * Image Copyright FontAwesome.com
     */
     exclamation: "\uf12a",
 	
-    /**
-     * Exclamation Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/exclamation-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/exclamation-circle.svg.png) Exclamation Circle
+     * Image Copyright FontAwesome.com
     */
     exclamationCircle: "\uf06a",
 	
-    /**
-     * Exclamation Triangle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/exclamation-triangle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/exclamation-triangle.svg.png) Exclamation Triangle
+     * Image Copyright FontAwesome.com
     */
     exclamationTriangle: "\uf071",
 	
-    /**
-     * Expand ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/expand.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/expand.svg.png) Expand
+     * Image Copyright FontAwesome.com
     */
     expand: "\uf065",
 	
-    /**
-     * Alternate Expand ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/expand-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/expand-alt.svg.png) Alternate Expand
+     * Image Copyright FontAwesome.com
     */
     expandAlt: "\uf424",
 	
-    /**
-     * Alternate Expand Arrows ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/expand-arrows-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/expand-arrows-alt.svg.png) Alternate Expand Arrows
+     * Image Copyright FontAwesome.com
     */
     expandArrowsAlt: "\uf31e",
 	
-    /**
-     * Alternate External Link ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/external-link-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/external-link-alt.svg.png) Alternate External Link
+     * Image Copyright FontAwesome.com
     */
     externalLinkAlt: "\uf35d",
 	
-    /**
-     * Alternate External Link Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/external-link-square-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/external-link-square-alt.svg.png) Alternate External Link Square
+     * Image Copyright FontAwesome.com
     */
     externalLinkSquareAlt: "\uf360",
 	
-    /**
-     * Eye ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/eye.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/eye.svg.png) Eye
+     * Image Copyright FontAwesome.com
     */
     eye: "\uf06e",
 	
-    /**
-     * Eye Dropper ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/eye-dropper.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/eye-dropper.svg.png) Eye Dropper
+     * Image Copyright FontAwesome.com
     */
     eyeDropper: "\uf1fb",
 	
-    /**
-     * Eye Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/eye-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/eye-slash.svg.png) Eye Slash
+     * Image Copyright FontAwesome.com
     */
     eyeSlash: "\uf070",
 	
-    /**
-     * Fan ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fan.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fan.svg.png) Fan
+     * Image Copyright FontAwesome.com
     */
     fan: "\uf863",
 	
-    /**
-     * fast-backward ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fast-backward.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fast-backward.svg.png) fast-backward
+     * Image Copyright FontAwesome.com
     */
     fastBackward: "\uf049",
 	
-    /**
-     * fast-forward ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fast-forward.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fast-forward.svg.png) fast-forward
+     * Image Copyright FontAwesome.com
     */
     fastForward: "\uf050",
 	
-    /**
-     * Fax ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fax.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fax.svg.png) Fax
+     * Image Copyright FontAwesome.com
     */
     fax: "\uf1ac",
 	
-    /**
-     * Feather ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/feather.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/feather.svg.png) Feather
+     * Image Copyright FontAwesome.com
     */
     feather: "\uf52d",
 	
-    /**
-     * Alternate Feather ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/feather-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/feather-alt.svg.png) Alternate Feather
+     * Image Copyright FontAwesome.com
     */
     featherAlt: "\uf56b",
 	
-    /**
-     * Female ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/female.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/female.svg.png) Female
+     * Image Copyright FontAwesome.com
     */
     female: "\uf182",
 	
-    /**
-     * fighter-jet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fighter-jet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fighter-jet.svg.png) fighter-jet
+     * Image Copyright FontAwesome.com
     */
     fighterJet: "\uf0fb",
 	
-    /**
-     * File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file.svg.png) File
+     * Image Copyright FontAwesome.com
     */
     file: "\uf15b",
 	
-    /**
-     * Alternate File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-alt.svg.png) Alternate File
+     * Image Copyright FontAwesome.com
     */
     fileAlt: "\uf15c",
 	
-    /**
-     * Archive File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-archive.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-archive.svg.png) Archive File
+     * Image Copyright FontAwesome.com
     */
     fileArchive: "\uf1c6",
 	
-    /**
-     * Audio File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-audio.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-audio.svg.png) Audio File
+     * Image Copyright FontAwesome.com
     */
     fileAudio: "\uf1c7",
 	
-    /**
-     * Code File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-code.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-code.svg.png) Code File
+     * Image Copyright FontAwesome.com
     */
     fileCode: "\uf1c9",
 	
-    /**
-     * File Contract ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-contract.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-contract.svg.png) File Contract
+     * Image Copyright FontAwesome.com
     */
     fileContract: "\uf56c",
 	
-    /**
-     * File CSV ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-csv.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-csv.svg.png) File CSV
+     * Image Copyright FontAwesome.com
     */
     fileCsv: "\uf6dd",
 	
-    /**
-     * File Download ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-download.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-download.svg.png) File Download
+     * Image Copyright FontAwesome.com
     */
     fileDownload: "\uf56d",
 	
-    /**
-     * Excel File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-excel.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-excel.svg.png) Excel File
+     * Image Copyright FontAwesome.com
     */
     fileExcel: "\uf1c3",
 	
-    /**
-     * File Export ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-export.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-export.svg.png) File Export
+     * Image Copyright FontAwesome.com
     */
     fileExport: "\uf56e",
 	
-    /**
-     * Image File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-image.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-image.svg.png) Image File
+     * Image Copyright FontAwesome.com
     */
     fileImage: "\uf1c5",
 	
-    /**
-     * File Import ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-import.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-import.svg.png) File Import
+     * Image Copyright FontAwesome.com
     */
     fileImport: "\uf56f",
 	
-    /**
-     * File Invoice ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-invoice.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-invoice.svg.png) File Invoice
+     * Image Copyright FontAwesome.com
     */
     fileInvoice: "\uf570",
 	
-    /**
-     * File Invoice with US Dollar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-invoice-dollar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-invoice-dollar.svg.png) File Invoice with US Dollar
+     * Image Copyright FontAwesome.com
     */
     fileInvoiceDollar: "\uf571",
 	
-    /**
-     * Medical File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-medical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-medical.svg.png) Medical File
+     * Image Copyright FontAwesome.com
     */
     fileMedical: "\uf477",
 	
-    /**
-     * Alternate Medical File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-medical-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-medical-alt.svg.png) Alternate Medical File
+     * Image Copyright FontAwesome.com
     */
     fileMedicalAlt: "\uf478",
 	
-    /**
-     * PDF File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-pdf.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-pdf.svg.png) PDF File
+     * Image Copyright FontAwesome.com
     */
     filePdf: "\uf1c1",
 	
-    /**
-     * Powerpoint File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-powerpoint.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-powerpoint.svg.png) Powerpoint File
+     * Image Copyright FontAwesome.com
     */
     filePowerpoint: "\uf1c4",
 	
-    /**
-     * File Prescription ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-prescription.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-prescription.svg.png) File Prescription
+     * Image Copyright FontAwesome.com
     */
     filePrescription: "\uf572",
 	
-    /**
-     * File Signature ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-signature.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-signature.svg.png) File Signature
+     * Image Copyright FontAwesome.com
     */
     fileSignature: "\uf573",
 	
-    /**
-     * File Upload ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-upload.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-upload.svg.png) File Upload
+     * Image Copyright FontAwesome.com
     */
     fileUpload: "\uf574",
 	
-    /**
-     * Video File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-video.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-video.svg.png) Video File
+     * Image Copyright FontAwesome.com
     */
     fileVideo: "\uf1c8",
 	
-    /**
-     * Word File ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/file-word.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/file-word.svg.png) Word File
+     * Image Copyright FontAwesome.com
     */
     fileWord: "\uf1c2",
 	
-    /**
-     * Fill ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fill.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fill.svg.png) Fill
+     * Image Copyright FontAwesome.com
     */
     fill: "\uf575",
 	
-    /**
-     * Fill Drip ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fill-drip.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fill-drip.svg.png) Fill Drip
+     * Image Copyright FontAwesome.com
     */
     fillDrip: "\uf576",
 	
-    /**
-     * Film ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/film.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/film.svg.png) Film
+     * Image Copyright FontAwesome.com
     */
     film: "\uf008",
 	
-    /**
-     * Filter ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/filter.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/filter.svg.png) Filter
+     * Image Copyright FontAwesome.com
     */
     filter: "\uf0b0",
 	
-    /**
-     * Fingerprint ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fingerprint.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fingerprint.svg.png) Fingerprint
+     * Image Copyright FontAwesome.com
     */
     fingerprint: "\uf577",
 	
-    /**
-     * fire ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fire.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fire.svg.png) fire
+     * Image Copyright FontAwesome.com
     */
     fire: "\uf06d",
 	
-    /**
-     * Alternate Fire ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fire-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fire-alt.svg.png) Alternate Fire
+     * Image Copyright FontAwesome.com
     */
     fireAlt: "\uf7e4",
 	
-    /**
-     * fire-extinguisher ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fire-extinguisher.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fire-extinguisher.svg.png) fire-extinguisher
+     * Image Copyright FontAwesome.com
     */
     fireExtinguisher: "\uf134",
 	
-    /**
-     * First Aid ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/first-aid.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/first-aid.svg.png) First Aid
+     * Image Copyright FontAwesome.com
     */
     firstAid: "\uf479",
 	
-    /**
-     * Fish ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fish.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fish.svg.png) Fish
+     * Image Copyright FontAwesome.com
     */
     fish: "\uf578",
 	
-    /**
-     * Raised Fist ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/fist-raised.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/fist-raised.svg.png) Raised Fist
+     * Image Copyright FontAwesome.com
     */
     fistRaised: "\uf6de",
 	
-    /**
-     * flag ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/flag.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/flag.svg.png) flag
+     * Image Copyright FontAwesome.com
     */
     flag: "\uf024",
 	
-    /**
-     * flag-checkered ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/flag-checkered.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/flag-checkered.svg.png) flag-checkered
+     * Image Copyright FontAwesome.com
     */
     flagCheckered: "\uf11e",
 	
-    /**
-     * United States of America Flag ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/flag-usa.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/flag-usa.svg.png) United States of America Flag
+     * Image Copyright FontAwesome.com
     */
     flagUsa: "\uf74d",
 	
-    /**
-     * Flask ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/flask.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/flask.svg.png) Flask
+     * Image Copyright FontAwesome.com
     */
     flask: "\uf0c3",
 	
-    /**
-     * Flushed Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/flushed.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/flushed.svg.png) Flushed Face
+     * Image Copyright FontAwesome.com
     */
     flushed: "\uf579",
 	
-    /**
-     * Folder ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/folder.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/folder.svg.png) Folder
+     * Image Copyright FontAwesome.com
     */
     folder: "\uf07b",
 	
-    /**
-     * Folder Minus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/folder-minus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/folder-minus.svg.png) Folder Minus
+     * Image Copyright FontAwesome.com
     */
     folderMinus: "\uf65d",
 	
-    /**
-     * Folder Open ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/folder-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/folder-open.svg.png) Folder Open
+     * Image Copyright FontAwesome.com
     */
     folderOpen: "\uf07c",
 	
-    /**
-     * Folder Plus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/folder-plus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/folder-plus.svg.png) Folder Plus
+     * Image Copyright FontAwesome.com
     */
     folderPlus: "\uf65e",
 	
-    /**
-     * font ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/font.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/font.svg.png) font
+     * Image Copyright FontAwesome.com
     */
     font: "\uf031",
 	
-    /**
-     * Font Awesome Full Logo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/font-awesome-logo-full.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/font-awesome-logo-full.svg.png) Font Awesome Full Logo
+     * Image Copyright FontAwesome.com
     */
     fontAwesomeLogoFull: "\uf4e6",
 	
-    /**
-     * Football Ball ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/football-ball.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/football-ball.svg.png) Football Ball
+     * Image Copyright FontAwesome.com
     */
     footballBall: "\uf44e",
 	
-    /**
-     * forward ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/forward.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/forward.svg.png) forward
+     * Image Copyright FontAwesome.com
     */
     forward: "\uf04e",
 	
-    /**
-     * Frog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/frog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/frog.svg.png) Frog
+     * Image Copyright FontAwesome.com
     */
     frog: "\uf52e",
 	
-    /**
-     * Frowning Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/frown.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/frown.svg.png) Frowning Face
+     * Image Copyright FontAwesome.com
     */
     frown: "\uf119",
 	
-    /**
-     * Frowning Face With Open Mouth ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/frown-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/frown-open.svg.png) Frowning Face With Open Mouth
+     * Image Copyright FontAwesome.com
     */
     frownOpen: "\uf57a",
 	
-    /**
-     * Funnel Dollar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/funnel-dollar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/funnel-dollar.svg.png) Funnel Dollar
+     * Image Copyright FontAwesome.com
     */
     funnelDollar: "\uf662",
 	
-    /**
-     * Futbol ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/futbol.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/futbol.svg.png) Futbol
+     * Image Copyright FontAwesome.com
     */
     futbol: "\uf1e3",
 	
-    /**
-     * Gamepad ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/gamepad.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/gamepad.svg.png) Gamepad
+     * Image Copyright FontAwesome.com
     */
     gamepad: "\uf11b",
 	
-    /**
-     * Gas Pump ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/gas-pump.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/gas-pump.svg.png) Gas Pump
+     * Image Copyright FontAwesome.com
     */
     gasPump: "\uf52f",
 	
-    /**
-     * Gavel ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/gavel.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/gavel.svg.png) Gavel
+     * Image Copyright FontAwesome.com
     */
     gavel: "\uf0e3",
 	
-    /**
-     * Gem ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/gem.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/gem.svg.png) Gem
+     * Image Copyright FontAwesome.com
     */
     gem: "\uf3a5",
 	
-    /**
-     * Genderless ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/genderless.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/genderless.svg.png) Genderless
+     * Image Copyright FontAwesome.com
     */
     genderless: "\uf22d",
 	
-    /**
-     * Ghost ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ghost.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ghost.svg.png) Ghost
+     * Image Copyright FontAwesome.com
     */
     ghost: "\uf6e2",
 	
-    /**
-     * gift ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/gift.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/gift.svg.png) gift
+     * Image Copyright FontAwesome.com
     */
     gift: "\uf06b",
 	
-    /**
-     * Gifts ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/gifts.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/gifts.svg.png) Gifts
+     * Image Copyright FontAwesome.com
     */
     gifts: "\uf79c",
 	
-    /**
-     * Glass Cheers ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/glass-cheers.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/glass-cheers.svg.png) Glass Cheers
+     * Image Copyright FontAwesome.com
     */
     glassCheers: "\uf79f",
 	
-    /**
-     * Martini Glass ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/glass-martini.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/glass-martini.svg.png) Martini Glass
+     * Image Copyright FontAwesome.com
     */
     glassMartini: "\uf000",
 	
-    /**
-     * Alternate Glass Martini ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/glass-martini-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/glass-martini-alt.svg.png) Alternate Glass Martini
+     * Image Copyright FontAwesome.com
     */
     glassMartiniAlt: "\uf57b",
 	
-    /**
-     * Glass Whiskey ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/glass-whiskey.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/glass-whiskey.svg.png) Glass Whiskey
+     * Image Copyright FontAwesome.com
     */
     glassWhiskey: "\uf7a0",
 	
-    /**
-     * Glasses ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/glasses.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/glasses.svg.png) Glasses
+     * Image Copyright FontAwesome.com
     */
     glasses: "\uf530",
 	
-    /**
-     * Globe ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/globe.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/globe.svg.png) Globe
+     * Image Copyright FontAwesome.com
     */
     globe: "\uf0ac",
 	
-    /**
-     * Globe with Africa shown ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/globe-africa.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/globe-africa.svg.png) Globe with Africa shown
+     * Image Copyright FontAwesome.com
     */
     globeAfrica: "\uf57c",
 	
-    /**
-     * Globe with Americas shown ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/globe-americas.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/globe-americas.svg.png) Globe with Americas shown
+     * Image Copyright FontAwesome.com
     */
     globeAmericas: "\uf57d",
 	
-    /**
-     * Globe with Asia shown ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/globe-asia.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/globe-asia.svg.png) Globe with Asia shown
+     * Image Copyright FontAwesome.com
     */
     globeAsia: "\uf57e",
 	
-    /**
-     * Globe with Europe shown ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/globe-europe.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/globe-europe.svg.png) Globe with Europe shown
+     * Image Copyright FontAwesome.com
     */
     globeEurope: "\uf7a2",
 	
-    /**
-     * Golf Ball ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/golf-ball.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/golf-ball.svg.png) Golf Ball
+     * Image Copyright FontAwesome.com
     */
     golfBall: "\uf450",
 	
-    /**
-     * Gopuram ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/gopuram.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/gopuram.svg.png) Gopuram
+     * Image Copyright FontAwesome.com
     */
     gopuram: "\uf664",
 	
-    /**
-     * Graduation Cap ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/graduation-cap.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/graduation-cap.svg.png) Graduation Cap
+     * Image Copyright FontAwesome.com
     */
     graduationCap: "\uf19d",
 	
-    /**
-     * Greater Than ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/greater-than.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/greater-than.svg.png) Greater Than
+     * Image Copyright FontAwesome.com
     */
     greaterThan: "\uf531",
 	
-    /**
-     * Greater Than Equal To ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/greater-than-equal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/greater-than-equal.svg.png) Greater Than Equal To
+     * Image Copyright FontAwesome.com
     */
     greaterThanEqual: "\uf532",
 	
-    /**
-     * Grimacing Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grimace.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grimace.svg.png) Grimacing Face
+     * Image Copyright FontAwesome.com
     */
     grimace: "\uf57f",
 	
-    /**
-     * Grinning Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin.svg.png) Grinning Face
+     * Image Copyright FontAwesome.com
     */
     grin: "\uf580",
 	
-    /**
-     * Alternate Grinning Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-alt.svg.png) Alternate Grinning Face
+     * Image Copyright FontAwesome.com
     */
     grinAlt: "\uf581",
 	
-    /**
-     * Grinning Face With Smiling Eyes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-beam.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-beam.svg.png) Grinning Face With Smiling Eyes
+     * Image Copyright FontAwesome.com
     */
     grinBeam: "\uf582",
 	
-    /**
-     * Grinning Face With Sweat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-beam-sweat.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-beam-sweat.svg.png) Grinning Face With Sweat
+     * Image Copyright FontAwesome.com
     */
     grinBeamSweat: "\uf583",
 	
-    /**
-     * Smiling Face With Heart-Eyes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-hearts.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-hearts.svg.png) Smiling Face With Heart-Eyes
+     * Image Copyright FontAwesome.com
     */
     grinHearts: "\uf584",
 	
-    /**
-     * Grinning Squinting Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-squint.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-squint.svg.png) Grinning Squinting Face
+     * Image Copyright FontAwesome.com
     */
     grinSquint: "\uf585",
 	
-    /**
-     * Rolling on the Floor Laughing ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-squint-tears.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-squint-tears.svg.png) Rolling on the Floor Laughing
+     * Image Copyright FontAwesome.com
     */
     grinSquintTears: "\uf586",
 	
-    /**
-     * Star-Struck ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-stars.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-stars.svg.png) Star-Struck
+     * Image Copyright FontAwesome.com
     */
     grinStars: "\uf587",
 	
-    /**
-     * Face With Tears of Joy ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-tears.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-tears.svg.png) Face With Tears of Joy
+     * Image Copyright FontAwesome.com
     */
     grinTears: "\uf588",
 	
-    /**
-     * Face With Tongue ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-tongue.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-tongue.svg.png) Face With Tongue
+     * Image Copyright FontAwesome.com
     */
     grinTongue: "\uf589",
 	
-    /**
-     * Squinting Face With Tongue ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-tongue-squint.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-tongue-squint.svg.png) Squinting Face With Tongue
+     * Image Copyright FontAwesome.com
     */
     grinTongueSquint: "\uf58a",
 	
-    /**
-     * Winking Face With Tongue ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-tongue-wink.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-tongue-wink.svg.png) Winking Face With Tongue
+     * Image Copyright FontAwesome.com
     */
     grinTongueWink: "\uf58b",
 	
-    /**
-     * Grinning Winking Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grin-wink.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grin-wink.svg.png) Grinning Winking Face
+     * Image Copyright FontAwesome.com
     */
     grinWink: "\uf58c",
 	
-    /**
-     * Grip Horizontal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grip-horizontal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grip-horizontal.svg.png) Grip Horizontal
+     * Image Copyright FontAwesome.com
     */
     gripHorizontal: "\uf58d",
 	
-    /**
-     * Grip Lines ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grip-lines.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grip-lines.svg.png) Grip Lines
+     * Image Copyright FontAwesome.com
     */
     gripLines: "\uf7a4",
 	
-    /**
-     * Grip Lines Vertical ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grip-lines-vertical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grip-lines-vertical.svg.png) Grip Lines Vertical
+     * Image Copyright FontAwesome.com
     */
     gripLinesVertical: "\uf7a5",
 	
-    /**
-     * Grip Vertical ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/grip-vertical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/grip-vertical.svg.png) Grip Vertical
+     * Image Copyright FontAwesome.com
     */
     gripVertical: "\uf58e",
 	
-    /**
-     * Guitar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/guitar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/guitar.svg.png) Guitar
+     * Image Copyright FontAwesome.com
     */
     guitar: "\uf7a6",
 	
-    /**
-     * H Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/h-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/h-square.svg.png) H Square
+     * Image Copyright FontAwesome.com
     */
     hSquare: "\uf0fd",
 	
-    /**
-     * Hamburger ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hamburger.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hamburger.svg.png) Hamburger
+     * Image Copyright FontAwesome.com
     */
     hamburger: "\uf805",
 	
-    /**
-     * Hammer ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hammer.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hammer.svg.png) Hammer
+     * Image Copyright FontAwesome.com
     */
     hammer: "\uf6e3",
 	
-    /**
-     * Hamsa ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hamsa.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hamsa.svg.png) Hamsa
+     * Image Copyright FontAwesome.com
     */
     hamsa: "\uf665",
 	
-    /**
-     * Hand Holding ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-holding.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-holding.svg.png) Hand Holding
+     * Image Copyright FontAwesome.com
     */
     handHolding: "\uf4bd",
 	
-    /**
-     * Hand Holding Heart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-holding-heart.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-holding-heart.svg.png) Hand Holding Heart
+     * Image Copyright FontAwesome.com
     */
     handHoldingHeart: "\uf4be",
 	
-    /**
-     * Hand Holding US Dollar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-holding-usd.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-holding-usd.svg.png) Hand Holding US Dollar
+     * Image Copyright FontAwesome.com
     */
     handHoldingUsd: "\uf4c0",
 	
-    /**
-     * Lizard (Hand) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-lizard.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-lizard.svg.png) Lizard (Hand)
+     * Image Copyright FontAwesome.com
     */
     handLizard: "\uf258",
 	
-    /**
-     * Hand with Middle Finger Raised ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-middle-finger.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-middle-finger.svg.png) Hand with Middle Finger Raised
+     * Image Copyright FontAwesome.com
     */
     handMiddleFinger: "\uf806",
 	
-    /**
-     * Paper (Hand) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-paper.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-paper.svg.png) Paper (Hand)
+     * Image Copyright FontAwesome.com
     */
     handPaper: "\uf256",
 	
-    /**
-     * Peace (Hand) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-peace.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-peace.svg.png) Peace (Hand)
+     * Image Copyright FontAwesome.com
     */
     handPeace: "\uf25b",
 	
-    /**
-     * Hand Pointing Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-point-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-point-down.svg.png) Hand Pointing Down
+     * Image Copyright FontAwesome.com
     */
     handPointDown: "\uf0a7",
 	
-    /**
-     * Hand Pointing Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-point-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-point-left.svg.png) Hand Pointing Left
+     * Image Copyright FontAwesome.com
     */
     handPointLeft: "\uf0a5",
 	
-    /**
-     * Hand Pointing Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-point-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-point-right.svg.png) Hand Pointing Right
+     * Image Copyright FontAwesome.com
     */
     handPointRight: "\uf0a4",
 	
-    /**
-     * Hand Pointing Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-point-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-point-up.svg.png) Hand Pointing Up
+     * Image Copyright FontAwesome.com
     */
     handPointUp: "\uf0a6",
 	
-    /**
-     * Pointer (Hand) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-pointer.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-pointer.svg.png) Pointer (Hand)
+     * Image Copyright FontAwesome.com
     */
     handPointer: "\uf25a",
 	
-    /**
-     * Rock (Hand) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-rock.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-rock.svg.png) Rock (Hand)
+     * Image Copyright FontAwesome.com
     */
     handRock: "\uf255",
 	
-    /**
-     * Scissors (Hand) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-scissors.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-scissors.svg.png) Scissors (Hand)
+     * Image Copyright FontAwesome.com
     */
     handScissors: "\uf257",
 	
-    /**
-     * Spock (Hand) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hand-spock.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hand-spock.svg.png) Spock (Hand)
+     * Image Copyright FontAwesome.com
     */
     handSpock: "\uf259",
 	
-    /**
-     * Hands ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hands.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hands.svg.png) Hands
+     * Image Copyright FontAwesome.com
     */
     hands: "\uf4c2",
 	
-    /**
-     * Helping Hands ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hands-helping.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hands-helping.svg.png) Helping Hands
+     * Image Copyright FontAwesome.com
     */
     handsHelping: "\uf4c4",
 	
-    /**
-     * Handshake ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/handshake.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/handshake.svg.png) Handshake
+     * Image Copyright FontAwesome.com
     */
     handshake: "\uf2b5",
 	
-    /**
-     * Hanukiah ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hanukiah.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hanukiah.svg.png) Hanukiah
+     * Image Copyright FontAwesome.com
     */
     hanukiah: "\uf6e6",
 	
-    /**
-     * Hard Hat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hard-hat.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hard-hat.svg.png) Hard Hat
+     * Image Copyright FontAwesome.com
     */
     hardHat: "\uf807",
 	
-    /**
-     * Hashtag ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hashtag.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hashtag.svg.png) Hashtag
+     * Image Copyright FontAwesome.com
     */
     hashtag: "\uf292",
 	
-    /**
-     * Cowboy Hat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hat-cowboy.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hat-cowboy.svg.png) Cowboy Hat
+     * Image Copyright FontAwesome.com
     */
     hatCowboy: "\uf8c0",
 	
-    /**
-     * Cowboy Hat Side ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hat-cowboy-side.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hat-cowboy-side.svg.png) Cowboy Hat Side
+     * Image Copyright FontAwesome.com
     */
     hatCowboySide: "\uf8c1",
 	
-    /**
-     * Wizard's Hat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hat-wizard.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hat-wizard.svg.png) Wizard's Hat
+     * Image Copyright FontAwesome.com
     */
     hatWizard: "\uf6e8",
 	
-    /**
-     * HDD ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hdd.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hdd.svg.png) HDD
+     * Image Copyright FontAwesome.com
     */
     hdd: "\uf0a0",
 	
-    /**
-     * heading ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/heading.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/heading.svg.png) heading
+     * Image Copyright FontAwesome.com
     */
     heading: "\uf1dc",
 	
-    /**
-     * headphones ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/headphones.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/headphones.svg.png) headphones
+     * Image Copyright FontAwesome.com
     */
     headphones: "\uf025",
 	
-    /**
-     * Alternate Headphones ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/headphones-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/headphones-alt.svg.png) Alternate Headphones
+     * Image Copyright FontAwesome.com
     */
     headphonesAlt: "\uf58f",
 	
-    /**
-     * Headset ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/headset.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/headset.svg.png) Headset
+     * Image Copyright FontAwesome.com
     */
     headset: "\uf590",
 	
-    /**
-     * Heart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/heart.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/heart.svg.png) Heart
+     * Image Copyright FontAwesome.com
     */
     heart: "\uf004",
 	
-    /**
-     * Heart Broken ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/heart-broken.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/heart-broken.svg.png) Heart Broken
+     * Image Copyright FontAwesome.com
     */
     heartBroken: "\uf7a9",
 	
-    /**
-     * Heartbeat ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/heartbeat.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/heartbeat.svg.png) Heartbeat
+     * Image Copyright FontAwesome.com
     */
     heartbeat: "\uf21e",
 	
-    /**
-     * Helicopter ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/helicopter.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/helicopter.svg.png) Helicopter
+     * Image Copyright FontAwesome.com
     */
     helicopter: "\uf533",
 	
-    /**
-     * Highlighter ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/highlighter.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/highlighter.svg.png) Highlighter
+     * Image Copyright FontAwesome.com
     */
     highlighter: "\uf591",
 	
-    /**
-     * Hiking ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hiking.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hiking.svg.png) Hiking
+     * Image Copyright FontAwesome.com
     */
     hiking: "\uf6ec",
 	
-    /**
-     * Hippo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hippo.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hippo.svg.png) Hippo
+     * Image Copyright FontAwesome.com
     */
     hippo: "\uf6ed",
 	
-    /**
-     * History ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/history.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/history.svg.png) History
+     * Image Copyright FontAwesome.com
     */
     history: "\uf1da",
 	
-    /**
-     * Hockey Puck ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hockey-puck.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hockey-puck.svg.png) Hockey Puck
+     * Image Copyright FontAwesome.com
     */
     hockeyPuck: "\uf453",
 	
-    /**
-     * Holly Berry ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/holly-berry.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/holly-berry.svg.png) Holly Berry
+     * Image Copyright FontAwesome.com
     */
     hollyBerry: "\uf7aa",
 	
-    /**
-     * home ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/home.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/home.svg.png) home
+     * Image Copyright FontAwesome.com
     */
     home: "\uf015",
 	
-    /**
-     * Horse ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/horse.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/horse.svg.png) Horse
+     * Image Copyright FontAwesome.com
     */
     horse: "\uf6f0",
 	
-    /**
-     * Horse Head ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/horse-head.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/horse-head.svg.png) Horse Head
+     * Image Copyright FontAwesome.com
     */
     horseHead: "\uf7ab",
 	
-    /**
-     * hospital ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hospital.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hospital.svg.png) hospital
+     * Image Copyright FontAwesome.com
     */
     hospital: "\uf0f8",
 	
-    /**
-     * Alternate Hospital ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hospital-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hospital-alt.svg.png) Alternate Hospital
+     * Image Copyright FontAwesome.com
     */
     hospitalAlt: "\uf47d",
 	
-    /**
-     * Hospital Symbol ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hospital-symbol.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hospital-symbol.svg.png) Hospital Symbol
+     * Image Copyright FontAwesome.com
     */
     hospitalSymbol: "\uf47e",
 	
-    /**
-     * Hot Tub ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hot-tub.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hot-tub.svg.png) Hot Tub
+     * Image Copyright FontAwesome.com
     */
     hotTub: "\uf593",
 	
-    /**
-     * Hot Dog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hotdog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hotdog.svg.png) Hot Dog
+     * Image Copyright FontAwesome.com
     */
     hotdog: "\uf80f",
 	
-    /**
-     * Hotel ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hotel.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hotel.svg.png) Hotel
+     * Image Copyright FontAwesome.com
     */
     hotel: "\uf594",
 	
-    /**
-     * Hourglass ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hourglass.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hourglass.svg.png) Hourglass
+     * Image Copyright FontAwesome.com
     */
     hourglass: "\uf254",
 	
-    /**
-     * Hourglass End ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hourglass-end.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hourglass-end.svg.png) Hourglass End
+     * Image Copyright FontAwesome.com
     */
     hourglassEnd: "\uf253",
 	
-    /**
-     * Hourglass Half ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hourglass-half.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hourglass-half.svg.png) Hourglass Half
+     * Image Copyright FontAwesome.com
     */
     hourglassHalf: "\uf252",
 	
-    /**
-     * Hourglass Start ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hourglass-start.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hourglass-start.svg.png) Hourglass Start
+     * Image Copyright FontAwesome.com
     */
     hourglassStart: "\uf251",
 	
-    /**
-     * Damaged House ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/house-damage.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/house-damage.svg.png) Damaged House
+     * Image Copyright FontAwesome.com
     */
     houseDamage: "\uf6f1",
 	
-    /**
-     * Hryvnia ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/hryvnia.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/hryvnia.svg.png) Hryvnia
+     * Image Copyright FontAwesome.com
     */
     hryvnia: "\uf6f2",
 	
-    /**
-     * I Beam Cursor ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/i-cursor.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/i-cursor.svg.png) I Beam Cursor
+     * Image Copyright FontAwesome.com
     */
     iCursor: "\uf246",
 	
-    /**
-     * Ice Cream ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ice-cream.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ice-cream.svg.png) Ice Cream
+     * Image Copyright FontAwesome.com
     */
     iceCream: "\uf810",
 	
-    /**
-     * Icicles ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/icicles.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/icicles.svg.png) Icicles
+     * Image Copyright FontAwesome.com
     */
     icicles: "\uf7ad",
 	
-    /**
-     * Icons ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/icons.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/icons.svg.png) Icons
+     * Image Copyright FontAwesome.com
     */
     icons: "\uf86d",
 	
-    /**
-     * Identification Badge ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/id-badge.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/id-badge.svg.png) Identification Badge
+     * Image Copyright FontAwesome.com
     */
     idBadge: "\uf2c1",
 	
-    /**
-     * Identification Card ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/id-card.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/id-card.svg.png) Identification Card
+     * Image Copyright FontAwesome.com
     */
     idCard: "\uf2c2",
 	
-    /**
-     * Alternate Identification Card ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/id-card-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/id-card-alt.svg.png) Alternate Identification Card
+     * Image Copyright FontAwesome.com
     */
     idCardAlt: "\uf47f",
 	
-    /**
-     * Igloo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/igloo.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/igloo.svg.png) Igloo
+     * Image Copyright FontAwesome.com
     */
     igloo: "\uf7ae",
 	
-    /**
-     * Image ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/image.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/image.svg.png) Image
+     * Image Copyright FontAwesome.com
     */
     image: "\uf03e",
 	
-    /**
-     * Images ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/images.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/images.svg.png) Images
+     * Image Copyright FontAwesome.com
     */
     images: "\uf302",
 	
-    /**
-     * inbox ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/inbox.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/inbox.svg.png) inbox
+     * Image Copyright FontAwesome.com
     */
     inbox: "\uf01c",
 	
-    /**
-     * Indent ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/indent.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/indent.svg.png) Indent
+     * Image Copyright FontAwesome.com
     */
     indent: "\uf03c",
 	
-    /**
-     * Industry ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/industry.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/industry.svg.png) Industry
+     * Image Copyright FontAwesome.com
     */
     industry: "\uf275",
 	
-    /**
-     * Infinity ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/infinity.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/infinity.svg.png) Infinity
+     * Image Copyright FontAwesome.com
     */
     infinity: "\uf534",
 	
-    /**
-     * Info ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/info.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/info.svg.png) Info
+     * Image Copyright FontAwesome.com
     */
     info: "\uf129",
 	
-    /**
-     * Info Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/info-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/info-circle.svg.png) Info Circle
+     * Image Copyright FontAwesome.com
     */
     infoCircle: "\uf05a",
 	
-    /**
-     * italic ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/italic.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/italic.svg.png) italic
+     * Image Copyright FontAwesome.com
     */
     italic: "\uf033",
 	
-    /**
-     * Jedi ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/jedi.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/jedi.svg.png) Jedi
+     * Image Copyright FontAwesome.com
     */
     jedi: "\uf669",
 	
-    /**
-     * Joint ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/joint.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/joint.svg.png) Joint
+     * Image Copyright FontAwesome.com
     */
     joint: "\uf595",
 	
-    /**
-     * Journal of the Whills ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/journal-whills.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/journal-whills.svg.png) Journal of the Whills
+     * Image Copyright FontAwesome.com
     */
     journalWhills: "\uf66a",
 	
-    /**
-     * Kaaba ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/kaaba.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/kaaba.svg.png) Kaaba
+     * Image Copyright FontAwesome.com
     */
     kaaba: "\uf66b",
 	
-    /**
-     * key ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/key.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/key.svg.png) key
+     * Image Copyright FontAwesome.com
     */
     key: "\uf084",
 	
-    /**
-     * Keyboard ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/keyboard.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/keyboard.svg.png) Keyboard
+     * Image Copyright FontAwesome.com
     */
     keyboard: "\uf11c",
 	
-    /**
-     * Khanda ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/khanda.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/khanda.svg.png) Khanda
+     * Image Copyright FontAwesome.com
     */
     khanda: "\uf66d",
 	
-    /**
-     * Kissing Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/kiss.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/kiss.svg.png) Kissing Face
+     * Image Copyright FontAwesome.com
     */
     kiss: "\uf596",
 	
-    /**
-     * Kissing Face With Smiling Eyes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/kiss-beam.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/kiss-beam.svg.png) Kissing Face With Smiling Eyes
+     * Image Copyright FontAwesome.com
     */
     kissBeam: "\uf597",
 	
-    /**
-     * Face Blowing a Kiss ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/kiss-wink-heart.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/kiss-wink-heart.svg.png) Face Blowing a Kiss
+     * Image Copyright FontAwesome.com
     */
     kissWinkHeart: "\uf598",
 	
-    /**
-     * Kiwi Bird ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/kiwi-bird.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/kiwi-bird.svg.png) Kiwi Bird
+     * Image Copyright FontAwesome.com
     */
     kiwiBird: "\uf535",
 	
-    /**
-     * Landmark ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/landmark.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/landmark.svg.png) Landmark
+     * Image Copyright FontAwesome.com
     */
     landmark: "\uf66f",
 	
-    /**
-     * Language ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/language.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/language.svg.png) Language
+     * Image Copyright FontAwesome.com
     */
     language: "\uf1ab",
 	
-    /**
-     * Laptop ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/laptop.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/laptop.svg.png) Laptop
+     * Image Copyright FontAwesome.com
     */
     laptop: "\uf109",
 	
-    /**
-     * Laptop Code ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/laptop-code.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/laptop-code.svg.png) Laptop Code
+     * Image Copyright FontAwesome.com
     */
     laptopCode: "\uf5fc",
 	
-    /**
-     * Laptop Medical ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/laptop-medical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/laptop-medical.svg.png) Laptop Medical
+     * Image Copyright FontAwesome.com
     */
     laptopMedical: "\uf812",
 	
-    /**
-     * Grinning Face With Big Eyes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/laugh.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/laugh.svg.png) Grinning Face With Big Eyes
+     * Image Copyright FontAwesome.com
     */
     laugh: "\uf599",
 	
-    /**
-     * Laugh Face with Beaming Eyes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/laugh-beam.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/laugh-beam.svg.png) Laugh Face with Beaming Eyes
+     * Image Copyright FontAwesome.com
     */
     laughBeam: "\uf59a",
 	
-    /**
-     * Laughing Squinting Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/laugh-squint.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/laugh-squint.svg.png) Laughing Squinting Face
+     * Image Copyright FontAwesome.com
     */
     laughSquint: "\uf59b",
 	
-    /**
-     * Laughing Winking Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/laugh-wink.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/laugh-wink.svg.png) Laughing Winking Face
+     * Image Copyright FontAwesome.com
     */
     laughWink: "\uf59c",
 	
-    /**
-     * Layer Group ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/layer-group.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/layer-group.svg.png) Layer Group
+     * Image Copyright FontAwesome.com
     */
     layerGroup: "\uf5fd",
 	
-    /**
-     * leaf ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/leaf.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/leaf.svg.png) leaf
+     * Image Copyright FontAwesome.com
     */
     leaf: "\uf06c",
 	
-    /**
-     * Lemon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/lemon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/lemon.svg.png) Lemon
+     * Image Copyright FontAwesome.com
     */
     lemon: "\uf094",
 	
-    /**
-     * Less Than ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/less-than.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/less-than.svg.png) Less Than
+     * Image Copyright FontAwesome.com
     */
     lessThan: "\uf536",
 	
-    /**
-     * Less Than Equal To ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/less-than-equal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/less-than-equal.svg.png) Less Than Equal To
+     * Image Copyright FontAwesome.com
     */
     lessThanEqual: "\uf537",
 	
-    /**
-     * Alternate Level Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/level-down-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/level-down-alt.svg.png) Alternate Level Down
+     * Image Copyright FontAwesome.com
     */
     levelDownAlt: "\uf3be",
 	
-    /**
-     * Alternate Level Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/level-up-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/level-up-alt.svg.png) Alternate Level Up
+     * Image Copyright FontAwesome.com
     */
     levelUpAlt: "\uf3bf",
 	
-    /**
-     * Life Ring ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/life-ring.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/life-ring.svg.png) Life Ring
+     * Image Copyright FontAwesome.com
     */
     lifeRing: "\uf1cd",
 	
-    /**
-     * Lightbulb ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/lightbulb.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/lightbulb.svg.png) Lightbulb
+     * Image Copyright FontAwesome.com
     */
     lightbulb: "\uf0eb",
 	
-    /**
-     * Link ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/link.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/link.svg.png) Link
+     * Image Copyright FontAwesome.com
     */
     link: "\uf0c1",
 	
-    /**
-     * Turkish Lira Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/lira-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/lira-sign.svg.png) Turkish Lira Sign
+     * Image Copyright FontAwesome.com
     */
     liraSign: "\uf195",
 	
-    /**
-     * List ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/list.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/list.svg.png) List
+     * Image Copyright FontAwesome.com
     */
     list: "\uf03a",
 	
-    /**
-     * Alternate List ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/list-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/list-alt.svg.png) Alternate List
+     * Image Copyright FontAwesome.com
     */
     listAlt: "\uf022",
 	
-    /**
-     * list-ol ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/list-ol.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/list-ol.svg.png) list-ol
+     * Image Copyright FontAwesome.com
     */
     listOl: "\uf0cb",
 	
-    /**
-     * list-ul ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/list-ul.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/list-ul.svg.png) list-ul
+     * Image Copyright FontAwesome.com
     */
     listUl: "\uf0ca",
 	
-    /**
-     * location-arrow ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/location-arrow.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/location-arrow.svg.png) location-arrow
+     * Image Copyright FontAwesome.com
     */
     locationArrow: "\uf124",
 	
-    /**
-     * lock ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/lock.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/lock.svg.png) lock
+     * Image Copyright FontAwesome.com
     */
     lock: "\uf023",
 	
-    /**
-     * Lock Open ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/lock-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/lock-open.svg.png) Lock Open
+     * Image Copyright FontAwesome.com
     */
     lockOpen: "\uf3c1",
 	
-    /**
-     * Alternate Long Arrow Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/long-arrow-alt-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/long-arrow-alt-down.svg.png) Alternate Long Arrow Down
+     * Image Copyright FontAwesome.com
     */
     longArrowAltDown: "\uf309",
 	
-    /**
-     * Alternate Long Arrow Left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/long-arrow-alt-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/long-arrow-alt-left.svg.png) Alternate Long Arrow Left
+     * Image Copyright FontAwesome.com
     */
     longArrowAltLeft: "\uf30a",
 	
-    /**
-     * Alternate Long Arrow Right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/long-arrow-alt-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/long-arrow-alt-right.svg.png) Alternate Long Arrow Right
+     * Image Copyright FontAwesome.com
     */
     longArrowAltRight: "\uf30b",
 	
-    /**
-     * Alternate Long Arrow Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/long-arrow-alt-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/long-arrow-alt-up.svg.png) Alternate Long Arrow Up
+     * Image Copyright FontAwesome.com
     */
     longArrowAltUp: "\uf30c",
 	
-    /**
-     * Low Vision ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/low-vision.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/low-vision.svg.png) Low Vision
+     * Image Copyright FontAwesome.com
     */
     lowVision: "\uf2a8",
 	
-    /**
-     * Luggage Cart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/luggage-cart.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/luggage-cart.svg.png) Luggage Cart
+     * Image Copyright FontAwesome.com
     */
     luggageCart: "\uf59d",
 	
-    /**
-     * magic ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/magic.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/magic.svg.png) magic
+     * Image Copyright FontAwesome.com
     */
     magic: "\uf0d0",
 	
-    /**
-     * magnet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/magnet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/magnet.svg.png) magnet
+     * Image Copyright FontAwesome.com
     */
     magnet: "\uf076",
 	
-    /**
-     * Mail Bulk ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mail-bulk.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mail-bulk.svg.png) Mail Bulk
+     * Image Copyright FontAwesome.com
     */
     mailBulk: "\uf674",
 	
-    /**
-     * Male ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/male.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/male.svg.png) Male
+     * Image Copyright FontAwesome.com
     */
     male: "\uf183",
 	
-    /**
-     * Map ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/map.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/map.svg.png) Map
+     * Image Copyright FontAwesome.com
     */
     map: "\uf279",
 	
-    /**
-     * Map Marked ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/map-marked.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/map-marked.svg.png) Map Marked
+     * Image Copyright FontAwesome.com
     */
     mapMarked: "\uf59f",
 	
-    /**
-     * Alternate Map Marked ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/map-marked-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/map-marked-alt.svg.png) Alternate Map Marked
+     * Image Copyright FontAwesome.com
     */
     mapMarkedAlt: "\uf5a0",
 	
-    /**
-     * map-marker ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/map-marker.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/map-marker.svg.png) map-marker
+     * Image Copyright FontAwesome.com
     */
     mapMarker: "\uf041",
 	
-    /**
-     * Alternate Map Marker ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/map-marker-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/map-marker-alt.svg.png) Alternate Map Marker
+     * Image Copyright FontAwesome.com
     */
     mapMarkerAlt: "\uf3c5",
 	
-    /**
-     * Map Pin ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/map-pin.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/map-pin.svg.png) Map Pin
+     * Image Copyright FontAwesome.com
     */
     mapPin: "\uf276",
 	
-    /**
-     * Map Signs ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/map-signs.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/map-signs.svg.png) Map Signs
+     * Image Copyright FontAwesome.com
     */
     mapSigns: "\uf277",
 	
-    /**
-     * Marker ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/marker.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/marker.svg.png) Marker
+     * Image Copyright FontAwesome.com
     */
     marker: "\uf5a1",
 	
-    /**
-     * Mars ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mars.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mars.svg.png) Mars
+     * Image Copyright FontAwesome.com
     */
     mars: "\uf222",
 	
-    /**
-     * Mars Double ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mars-double.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mars-double.svg.png) Mars Double
+     * Image Copyright FontAwesome.com
     */
     marsDouble: "\uf227",
 	
-    /**
-     * Mars Stroke ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mars-stroke.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mars-stroke.svg.png) Mars Stroke
+     * Image Copyright FontAwesome.com
     */
     marsStroke: "\uf229",
 	
-    /**
-     * Mars Stroke Horizontal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mars-stroke-h.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mars-stroke-h.svg.png) Mars Stroke Horizontal
+     * Image Copyright FontAwesome.com
     */
     marsStrokeH: "\uf22b",
 	
-    /**
-     * Mars Stroke Vertical ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mars-stroke-v.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mars-stroke-v.svg.png) Mars Stroke Vertical
+     * Image Copyright FontAwesome.com
     */
     marsStrokeV: "\uf22a",
 	
-    /**
-     * Mask ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mask.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mask.svg.png) Mask
+     * Image Copyright FontAwesome.com
     */
     mask: "\uf6fa",
 	
-    /**
-     * Medal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/medal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/medal.svg.png) Medal
+     * Image Copyright FontAwesome.com
     */
     medal: "\uf5a2",
 	
-    /**
-     * medkit ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/medkit.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/medkit.svg.png) medkit
+     * Image Copyright FontAwesome.com
     */
     medkit: "\uf0fa",
 	
-    /**
-     * Neutral Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/meh.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/meh.svg.png) Neutral Face
+     * Image Copyright FontAwesome.com
     */
     meh: "\uf11a",
 	
-    /**
-     * Face Without Mouth ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/meh-blank.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/meh-blank.svg.png) Face Without Mouth
+     * Image Copyright FontAwesome.com
     */
     mehBlank: "\uf5a4",
 	
-    /**
-     * Face With Rolling Eyes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/meh-rolling-eyes.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/meh-rolling-eyes.svg.png) Face With Rolling Eyes
+     * Image Copyright FontAwesome.com
     */
     mehRollingEyes: "\uf5a5",
 	
-    /**
-     * Memory ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/memory.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/memory.svg.png) Memory
+     * Image Copyright FontAwesome.com
     */
     memory: "\uf538",
 	
-    /**
-     * Menorah ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/menorah.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/menorah.svg.png) Menorah
+     * Image Copyright FontAwesome.com
     */
     menorah: "\uf676",
 	
-    /**
-     * Mercury ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mercury.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mercury.svg.png) Mercury
+     * Image Copyright FontAwesome.com
     */
     mercury: "\uf223",
 	
-    /**
-     * Meteor ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/meteor.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/meteor.svg.png) Meteor
+     * Image Copyright FontAwesome.com
     */
     meteor: "\uf753",
 	
-    /**
-     * Microchip ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/microchip.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/microchip.svg.png) Microchip
+     * Image Copyright FontAwesome.com
     */
     microchip: "\uf2db",
 	
-    /**
-     * microphone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/microphone.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/microphone.svg.png) microphone
+     * Image Copyright FontAwesome.com
     */
     microphone: "\uf130",
 	
-    /**
-     * Alternate Microphone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/microphone-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/microphone-alt.svg.png) Alternate Microphone
+     * Image Copyright FontAwesome.com
     */
     microphoneAlt: "\uf3c9",
 	
-    /**
-     * Alternate Microphone Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/microphone-alt-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/microphone-alt-slash.svg.png) Alternate Microphone Slash
+     * Image Copyright FontAwesome.com
     */
     microphoneAltSlash: "\uf539",
 	
-    /**
-     * Microphone Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/microphone-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/microphone-slash.svg.png) Microphone Slash
+     * Image Copyright FontAwesome.com
     */
     microphoneSlash: "\uf131",
 	
-    /**
-     * Microscope ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/microscope.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/microscope.svg.png) Microscope
+     * Image Copyright FontAwesome.com
     */
     microscope: "\uf610",
 	
-    /**
-     * minus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/minus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/minus.svg.png) minus
+     * Image Copyright FontAwesome.com
     */
     minus: "\uf068",
 	
-    /**
-     * Minus Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/minus-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/minus-circle.svg.png) Minus Circle
+     * Image Copyright FontAwesome.com
     */
     minusCircle: "\uf056",
 	
-    /**
-     * Minus Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/minus-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/minus-square.svg.png) Minus Square
+     * Image Copyright FontAwesome.com
     */
     minusSquare: "\uf146",
 	
-    /**
-     * Mitten ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mitten.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mitten.svg.png) Mitten
+     * Image Copyright FontAwesome.com
     */
     mitten: "\uf7b5",
 	
-    /**
-     * Mobile Phone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mobile.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mobile.svg.png) Mobile Phone
+     * Image Copyright FontAwesome.com
     */
     mobile: "\uf10b",
 	
-    /**
-     * Alternate Mobile ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mobile-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mobile-alt.svg.png) Alternate Mobile
+     * Image Copyright FontAwesome.com
     */
     mobileAlt: "\uf3cd",
 	
-    /**
-     * Money Bill ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/money-bill.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/money-bill.svg.png) Money Bill
+     * Image Copyright FontAwesome.com
     */
     moneyBill: "\uf0d6",
 	
-    /**
-     * Alternate Money Bill ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/money-bill-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/money-bill-alt.svg.png) Alternate Money Bill
+     * Image Copyright FontAwesome.com
     */
     moneyBillAlt: "\uf3d1",
 	
-    /**
-     * Wavy Money Bill ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/money-bill-wave.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/money-bill-wave.svg.png) Wavy Money Bill
+     * Image Copyright FontAwesome.com
     */
     moneyBillWave: "\uf53a",
 	
-    /**
-     * Alternate Wavy Money Bill ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/money-bill-wave-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/money-bill-wave-alt.svg.png) Alternate Wavy Money Bill
+     * Image Copyright FontAwesome.com
     */
     moneyBillWaveAlt: "\uf53b",
 	
-    /**
-     * Money Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/money-check.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/money-check.svg.png) Money Check
+     * Image Copyright FontAwesome.com
     */
     moneyCheck: "\uf53c",
 	
-    /**
-     * Alternate Money Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/money-check-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/money-check-alt.svg.png) Alternate Money Check
+     * Image Copyright FontAwesome.com
     */
     moneyCheckAlt: "\uf53d",
 	
-    /**
-     * Monument ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/monument.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/monument.svg.png) Monument
+     * Image Copyright FontAwesome.com
     */
     monument: "\uf5a6",
 	
-    /**
-     * Moon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/moon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/moon.svg.png) Moon
+     * Image Copyright FontAwesome.com
     */
     moon: "\uf186",
 	
-    /**
-     * Mortar Pestle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mortar-pestle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mortar-pestle.svg.png) Mortar Pestle
+     * Image Copyright FontAwesome.com
     */
     mortarPestle: "\uf5a7",
 	
-    /**
-     * Mosque ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mosque.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mosque.svg.png) Mosque
+     * Image Copyright FontAwesome.com
     */
     mosque: "\uf678",
 	
-    /**
-     * Motorcycle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/motorcycle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/motorcycle.svg.png) Motorcycle
+     * Image Copyright FontAwesome.com
     */
     motorcycle: "\uf21c",
 	
-    /**
-     * Mountain ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mountain.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mountain.svg.png) Mountain
+     * Image Copyright FontAwesome.com
     */
     mountain: "\uf6fc",
 	
-    /**
-     * Mouse ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mouse.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mouse.svg.png) Mouse
+     * Image Copyright FontAwesome.com
     */
     mouse: "\uf8cc",
 	
-    /**
-     * Mouse Pointer ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mouse-pointer.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mouse-pointer.svg.png) Mouse Pointer
+     * Image Copyright FontAwesome.com
     */
     mousePointer: "\uf245",
 	
-    /**
-     * Mug Hot ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/mug-hot.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/mug-hot.svg.png) Mug Hot
+     * Image Copyright FontAwesome.com
     */
     mugHot: "\uf7b6",
 	
-    /**
-     * Music ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/music.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/music.svg.png) Music
+     * Image Copyright FontAwesome.com
     */
     music: "\uf001",
 	
-    /**
-     * Wired Network ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/network-wired.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/network-wired.svg.png) Wired Network
+     * Image Copyright FontAwesome.com
     */
     networkWired: "\uf6ff",
 	
-    /**
-     * Neuter ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/neuter.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/neuter.svg.png) Neuter
+     * Image Copyright FontAwesome.com
     */
     neuter: "\uf22c",
 	
-    /**
-     * Newspaper ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/newspaper.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/newspaper.svg.png) Newspaper
+     * Image Copyright FontAwesome.com
     */
     newspaper: "\uf1ea",
 	
-    /**
-     * Not Equal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/not-equal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/not-equal.svg.png) Not Equal
+     * Image Copyright FontAwesome.com
     */
     notEqual: "\uf53e",
 	
-    /**
-     * Medical Notes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/notes-medical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/notes-medical.svg.png) Medical Notes
+     * Image Copyright FontAwesome.com
     */
     notesMedical: "\uf481",
 	
-    /**
-     * Object Group ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/object-group.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/object-group.svg.png) Object Group
+     * Image Copyright FontAwesome.com
     */
     objectGroup: "\uf247",
 	
-    /**
-     * Object Ungroup ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/object-ungroup.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/object-ungroup.svg.png) Object Ungroup
+     * Image Copyright FontAwesome.com
     */
     objectUngroup: "\uf248",
 	
-    /**
-     * Oil Can ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/oil-can.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/oil-can.svg.png) Oil Can
+     * Image Copyright FontAwesome.com
     */
     oilCan: "\uf613",
 	
-    /**
-     * Om ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/om.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/om.svg.png) Om
+     * Image Copyright FontAwesome.com
     */
     om: "\uf679",
 	
-    /**
-     * Otter ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/otter.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/otter.svg.png) Otter
+     * Image Copyright FontAwesome.com
     */
     otter: "\uf700",
 	
-    /**
-     * Outdent ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/outdent.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/outdent.svg.png) Outdent
+     * Image Copyright FontAwesome.com
     */
     outdent: "\uf03b",
 	
-    /**
-     * Pager ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pager.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pager.svg.png) Pager
+     * Image Copyright FontAwesome.com
     */
     pager: "\uf815",
 	
-    /**
-     * Paint Brush ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/paint-brush.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/paint-brush.svg.png) Paint Brush
+     * Image Copyright FontAwesome.com
     */
     paintBrush: "\uf1fc",
 	
-    /**
-     * Paint Roller ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/paint-roller.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/paint-roller.svg.png) Paint Roller
+     * Image Copyright FontAwesome.com
     */
     paintRoller: "\uf5aa",
 	
-    /**
-     * Palette ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/palette.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/palette.svg.png) Palette
+     * Image Copyright FontAwesome.com
     */
     palette: "\uf53f",
 	
-    /**
-     * Pallet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pallet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pallet.svg.png) Pallet
+     * Image Copyright FontAwesome.com
     */
     pallet: "\uf482",
 	
-    /**
-     * Paper Plane ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/paper-plane.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/paper-plane.svg.png) Paper Plane
+     * Image Copyright FontAwesome.com
     */
     paperPlane: "\uf1d8",
 	
-    /**
-     * Paperclip ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/paperclip.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/paperclip.svg.png) Paperclip
+     * Image Copyright FontAwesome.com
     */
     paperclip: "\uf0c6",
 	
-    /**
-     * Parachute Box ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/parachute-box.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/parachute-box.svg.png) Parachute Box
+     * Image Copyright FontAwesome.com
     */
     parachuteBox: "\uf4cd",
 	
-    /**
-     * paragraph ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/paragraph.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/paragraph.svg.png) paragraph
+     * Image Copyright FontAwesome.com
     */
     paragraph: "\uf1dd",
 	
-    /**
-     * Parking ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/parking.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/parking.svg.png) Parking
+     * Image Copyright FontAwesome.com
     */
     parking: "\uf540",
 	
-    /**
-     * Passport ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/passport.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/passport.svg.png) Passport
+     * Image Copyright FontAwesome.com
     */
     passport: "\uf5ab",
 	
-    /**
-     * Pastafarianism ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pastafarianism.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pastafarianism.svg.png) Pastafarianism
+     * Image Copyright FontAwesome.com
     */
     pastafarianism: "\uf67b",
 	
-    /**
-     * Paste ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/paste.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/paste.svg.png) Paste
+     * Image Copyright FontAwesome.com
     */
     paste: "\uf0ea",
 	
-    /**
-     * pause ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pause.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pause.svg.png) pause
+     * Image Copyright FontAwesome.com
     */
     pause: "\uf04c",
 	
-    /**
-     * Pause Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pause-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pause-circle.svg.png) Pause Circle
+     * Image Copyright FontAwesome.com
     */
     pauseCircle: "\uf28b",
 	
-    /**
-     * Paw ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/paw.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/paw.svg.png) Paw
+     * Image Copyright FontAwesome.com
     */
     paw: "\uf1b0",
 	
-    /**
-     * Peace ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/peace.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/peace.svg.png) Peace
+     * Image Copyright FontAwesome.com
     */
     peace: "\uf67c",
 	
-    /**
-     * Pen ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pen.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pen.svg.png) Pen
+     * Image Copyright FontAwesome.com
     */
     pen: "\uf304",
 	
-    /**
-     * Alternate Pen ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pen-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pen-alt.svg.png) Alternate Pen
+     * Image Copyright FontAwesome.com
     */
     penAlt: "\uf305",
 	
-    /**
-     * Pen Fancy ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pen-fancy.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pen-fancy.svg.png) Pen Fancy
+     * Image Copyright FontAwesome.com
     */
     penFancy: "\uf5ac",
 	
-    /**
-     * Pen Nib ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pen-nib.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pen-nib.svg.png) Pen Nib
+     * Image Copyright FontAwesome.com
     */
     penNib: "\uf5ad",
 	
-    /**
-     * Pen Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pen-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pen-square.svg.png) Pen Square
+     * Image Copyright FontAwesome.com
     */
     penSquare: "\uf14b",
 	
-    /**
-     * Alternate Pencil ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pencil-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pencil-alt.svg.png) Alternate Pencil
+     * Image Copyright FontAwesome.com
     */
     pencilAlt: "\uf303",
 	
-    /**
-     * Pencil Ruler ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pencil-ruler.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pencil-ruler.svg.png) Pencil Ruler
+     * Image Copyright FontAwesome.com
     */
     pencilRuler: "\uf5ae",
 	
-    /**
-     * People Carry ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/people-carry.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/people-carry.svg.png) People Carry
+     * Image Copyright FontAwesome.com
     */
     peopleCarry: "\uf4ce",
 	
-    /**
-     * Hot Pepper ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pepper-hot.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pepper-hot.svg.png) Hot Pepper
+     * Image Copyright FontAwesome.com
     */
     pepperHot: "\uf816",
 	
-    /**
-     * Percent ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/percent.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/percent.svg.png) Percent
+     * Image Copyright FontAwesome.com
     */
     percent: "\uf295",
 	
-    /**
-     * Percentage ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/percentage.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/percentage.svg.png) Percentage
+     * Image Copyright FontAwesome.com
     */
     percentage: "\uf541",
 	
-    /**
-     * Person Entering Booth ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/person-booth.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/person-booth.svg.png) Person Entering Booth
+     * Image Copyright FontAwesome.com
     */
     personBooth: "\uf756",
 	
-    /**
-     * Phone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/phone.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/phone.svg.png) Phone
+     * Image Copyright FontAwesome.com
     */
     phone: "\uf095",
 	
-    /**
-     * Alternate Phone ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/phone-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/phone-alt.svg.png) Alternate Phone
+     * Image Copyright FontAwesome.com
     */
     phoneAlt: "\uf879",
 	
-    /**
-     * Phone Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/phone-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/phone-slash.svg.png) Phone Slash
+     * Image Copyright FontAwesome.com
     */
     phoneSlash: "\uf3dd",
 	
-    /**
-     * Phone Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/phone-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/phone-square.svg.png) Phone Square
+     * Image Copyright FontAwesome.com
     */
     phoneSquare: "\uf098",
 	
-    /**
-     * Alternate Phone Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/phone-square-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/phone-square-alt.svg.png) Alternate Phone Square
+     * Image Copyright FontAwesome.com
     */
     phoneSquareAlt: "\uf87b",
 	
-    /**
-     * Phone Volume ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/phone-volume.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/phone-volume.svg.png) Phone Volume
+     * Image Copyright FontAwesome.com
     */
     phoneVolume: "\uf2a0",
 	
-    /**
-     * Photo Video ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/photo-video.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/photo-video.svg.png) Photo Video
+     * Image Copyright FontAwesome.com
     */
     photoVideo: "\uf87c",
 	
-    /**
-     * Piggy Bank ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/piggy-bank.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/piggy-bank.svg.png) Piggy Bank
+     * Image Copyright FontAwesome.com
     */
     piggyBank: "\uf4d3",
 	
-    /**
-     * Pills ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pills.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pills.svg.png) Pills
+     * Image Copyright FontAwesome.com
     */
     pills: "\uf484",
 	
-    /**
-     * Pizza Slice ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pizza-slice.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pizza-slice.svg.png) Pizza Slice
+     * Image Copyright FontAwesome.com
     */
     pizzaSlice: "\uf818",
 	
-    /**
-     * Place of Worship ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/place-of-worship.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/place-of-worship.svg.png) Place of Worship
+     * Image Copyright FontAwesome.com
     */
     placeOfWorship: "\uf67f",
 	
-    /**
-     * plane ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/plane.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/plane.svg.png) plane
+     * Image Copyright FontAwesome.com
     */
     plane: "\uf072",
 	
-    /**
-     * Plane Arrival ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/plane-arrival.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/plane-arrival.svg.png) Plane Arrival
+     * Image Copyright FontAwesome.com
     */
     planeArrival: "\uf5af",
 	
-    /**
-     * Plane Departure ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/plane-departure.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/plane-departure.svg.png) Plane Departure
+     * Image Copyright FontAwesome.com
     */
     planeDeparture: "\uf5b0",
 	
-    /**
-     * play ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/play.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/play.svg.png) play
+     * Image Copyright FontAwesome.com
     */
     play: "\uf04b",
 	
-    /**
-     * Play Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/play-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/play-circle.svg.png) Play Circle
+     * Image Copyright FontAwesome.com
     */
     playCircle: "\uf144",
 	
-    /**
-     * Plug ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/plug.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/plug.svg.png) Plug
+     * Image Copyright FontAwesome.com
     */
     plug: "\uf1e6",
 	
-    /**
-     * plus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/plus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/plus.svg.png) plus
+     * Image Copyright FontAwesome.com
     */
     plus: "\uf067",
 	
-    /**
-     * Plus Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/plus-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/plus-circle.svg.png) Plus Circle
+     * Image Copyright FontAwesome.com
     */
     plusCircle: "\uf055",
 	
-    /**
-     * Plus Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/plus-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/plus-square.svg.png) Plus Square
+     * Image Copyright FontAwesome.com
     */
     plusSquare: "\uf0fe",
 	
-    /**
-     * Podcast ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/podcast.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/podcast.svg.png) Podcast
+     * Image Copyright FontAwesome.com
     */
     podcast: "\uf2ce",
 	
-    /**
-     * Poll ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/poll.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/poll.svg.png) Poll
+     * Image Copyright FontAwesome.com
     */
     poll: "\uf681",
 	
-    /**
-     * Poll H ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/poll-h.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/poll-h.svg.png) Poll H
+     * Image Copyright FontAwesome.com
     */
     pollH: "\uf682",
 	
-    /**
-     * Poo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/poo.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/poo.svg.png) Poo
+     * Image Copyright FontAwesome.com
     */
     poo: "\uf2fe",
 	
-    /**
-     * Poo Storm ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/poo-storm.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/poo-storm.svg.png) Poo Storm
+     * Image Copyright FontAwesome.com
     */
     pooStorm: "\uf75a",
 	
-    /**
-     * Poop ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/poop.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/poop.svg.png) Poop
+     * Image Copyright FontAwesome.com
     */
     poop: "\uf619",
 	
-    /**
-     * Portrait ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/portrait.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/portrait.svg.png) Portrait
+     * Image Copyright FontAwesome.com
     */
     portrait: "\uf3e0",
 	
-    /**
-     * Pound Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pound-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pound-sign.svg.png) Pound Sign
+     * Image Copyright FontAwesome.com
     */
     poundSign: "\uf154",
 	
-    /**
-     * Power Off ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/power-off.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/power-off.svg.png) Power Off
+     * Image Copyright FontAwesome.com
     */
     powerOff: "\uf011",
 	
-    /**
-     * Pray ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/pray.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/pray.svg.png) Pray
+     * Image Copyright FontAwesome.com
     */
     pray: "\uf683",
 	
-    /**
-     * Praying Hands ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/praying-hands.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/praying-hands.svg.png) Praying Hands
+     * Image Copyright FontAwesome.com
     */
     prayingHands: "\uf684",
 	
-    /**
-     * Prescription ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/prescription.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/prescription.svg.png) Prescription
+     * Image Copyright FontAwesome.com
     */
     prescription: "\uf5b1",
 	
-    /**
-     * Prescription Bottle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/prescription-bottle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/prescription-bottle.svg.png) Prescription Bottle
+     * Image Copyright FontAwesome.com
     */
     prescriptionBottle: "\uf485",
 	
-    /**
-     * Alternate Prescription Bottle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/prescription-bottle-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/prescription-bottle-alt.svg.png) Alternate Prescription Bottle
+     * Image Copyright FontAwesome.com
     */
     prescriptionBottleAlt: "\uf486",
 	
-    /**
-     * print ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/print.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/print.svg.png) print
+     * Image Copyright FontAwesome.com
     */
     print: "\uf02f",
 	
-    /**
-     * Procedures ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/procedures.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/procedures.svg.png) Procedures
+     * Image Copyright FontAwesome.com
     */
     procedures: "\uf487",
 	
-    /**
-     * Project Diagram ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/project-diagram.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/project-diagram.svg.png) Project Diagram
+     * Image Copyright FontAwesome.com
     */
     projectDiagram: "\uf542",
 	
-    /**
-     * Puzzle Piece ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/puzzle-piece.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/puzzle-piece.svg.png) Puzzle Piece
+     * Image Copyright FontAwesome.com
     */
     puzzlePiece: "\uf12e",
 	
-    /**
-     * qrcode ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/qrcode.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/qrcode.svg.png) qrcode
+     * Image Copyright FontAwesome.com
     */
     qrcode: "\uf029",
 	
-    /**
-     * Question ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/question.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/question.svg.png) Question
+     * Image Copyright FontAwesome.com
     */
     question: "\uf128",
 	
-    /**
-     * Question Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/question-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/question-circle.svg.png) Question Circle
+     * Image Copyright FontAwesome.com
     */
     questionCircle: "\uf059",
 	
-    /**
-     * Quidditch ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/quidditch.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/quidditch.svg.png) Quidditch
+     * Image Copyright FontAwesome.com
     */
     quidditch: "\uf458",
 	
-    /**
-     * quote-left ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/quote-left.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/quote-left.svg.png) quote-left
+     * Image Copyright FontAwesome.com
     */
     quoteLeft: "\uf10d",
 	
-    /**
-     * quote-right ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/quote-right.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/quote-right.svg.png) quote-right
+     * Image Copyright FontAwesome.com
     */
     quoteRight: "\uf10e",
 	
-    /**
-     * Quran ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/quran.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/quran.svg.png) Quran
+     * Image Copyright FontAwesome.com
     */
     quran: "\uf687",
 	
-    /**
-     * Radiation ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/radiation.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/radiation.svg.png) Radiation
+     * Image Copyright FontAwesome.com
     */
     radiation: "\uf7b9",
 	
-    /**
-     * Alternate Radiation ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/radiation-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/radiation-alt.svg.png) Alternate Radiation
+     * Image Copyright FontAwesome.com
     */
     radiationAlt: "\uf7ba",
 	
-    /**
-     * Rainbow ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/rainbow.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/rainbow.svg.png) Rainbow
+     * Image Copyright FontAwesome.com
     */
     rainbow: "\uf75b",
 	
-    /**
-     * random ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/random.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/random.svg.png) random
+     * Image Copyright FontAwesome.com
     */
     random: "\uf074",
 	
-    /**
-     * Receipt ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/receipt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/receipt.svg.png) Receipt
+     * Image Copyright FontAwesome.com
     */
     receipt: "\uf543",
 	
-    /**
-     * Record Vinyl ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/record-vinyl.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/record-vinyl.svg.png) Record Vinyl
+     * Image Copyright FontAwesome.com
     */
     recordVinyl: "\uf8d9",
 	
-    /**
-     * Recycle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/recycle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/recycle.svg.png) Recycle
+     * Image Copyright FontAwesome.com
     */
     recycle: "\uf1b8",
 	
-    /**
-     * Redo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/redo.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/redo.svg.png) Redo
+     * Image Copyright FontAwesome.com
     */
     redo: "\uf01e",
 	
-    /**
-     * Alternate Redo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/redo-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/redo-alt.svg.png) Alternate Redo
+     * Image Copyright FontAwesome.com
     */
     redoAlt: "\uf2f9",
 	
-    /**
-     * Registered Trademark ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/registered.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/registered.svg.png) Registered Trademark
+     * Image Copyright FontAwesome.com
     */
     registered: "\uf25d",
 	
-    /**
-     * Remove Format ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/remove-format.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/remove-format.svg.png) Remove Format
+     * Image Copyright FontAwesome.com
     */
     removeFormat: "\uf87d",
 	
-    /**
-     * Reply ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/reply.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/reply.svg.png) Reply
+     * Image Copyright FontAwesome.com
     */
     reply: "\uf3e5",
 	
-    /**
-     * reply-all ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/reply-all.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/reply-all.svg.png) reply-all
+     * Image Copyright FontAwesome.com
     */
     replyAll: "\uf122",
 	
-    /**
-     * Republican ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/republican.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/republican.svg.png) Republican
+     * Image Copyright FontAwesome.com
     */
     republican: "\uf75e",
 	
-    /**
-     * Restroom ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/restroom.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/restroom.svg.png) Restroom
+     * Image Copyright FontAwesome.com
     */
     restroom: "\uf7bd",
 	
-    /**
-     * Retweet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/retweet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/retweet.svg.png) Retweet
+     * Image Copyright FontAwesome.com
     */
     retweet: "\uf079",
 	
-    /**
-     * Ribbon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ribbon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ribbon.svg.png) Ribbon
+     * Image Copyright FontAwesome.com
     */
     ribbon: "\uf4d6",
 	
-    /**
-     * Ring ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ring.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ring.svg.png) Ring
+     * Image Copyright FontAwesome.com
     */
     ring: "\uf70b",
 	
-    /**
-     * road ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/road.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/road.svg.png) road
+     * Image Copyright FontAwesome.com
     */
     road: "\uf018",
 	
-    /**
-     * Robot ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/robot.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/robot.svg.png) Robot
+     * Image Copyright FontAwesome.com
     */
     robot: "\uf544",
 	
-    /**
-     * rocket ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/rocket.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/rocket.svg.png) rocket
+     * Image Copyright FontAwesome.com
     */
     rocket: "\uf135",
 	
-    /**
-     * Route ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/route.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/route.svg.png) Route
+     * Image Copyright FontAwesome.com
     */
     route: "\uf4d7",
 	
-    /**
-     * rss ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/rss.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/rss.svg.png) rss
+     * Image Copyright FontAwesome.com
     */
     rss: "\uf09e",
 	
-    /**
-     * RSS Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/rss-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/rss-square.svg.png) RSS Square
+     * Image Copyright FontAwesome.com
     */
     rssSquare: "\uf143",
 	
-    /**
-     * Ruble Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ruble-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ruble-sign.svg.png) Ruble Sign
+     * Image Copyright FontAwesome.com
     */
     rubleSign: "\uf158",
 	
-    /**
-     * Ruler ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ruler.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ruler.svg.png) Ruler
+     * Image Copyright FontAwesome.com
     */
     ruler: "\uf545",
 	
-    /**
-     * Ruler Combined ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ruler-combined.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ruler-combined.svg.png) Ruler Combined
+     * Image Copyright FontAwesome.com
     */
     rulerCombined: "\uf546",
 	
-    /**
-     * Ruler Horizontal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ruler-horizontal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ruler-horizontal.svg.png) Ruler Horizontal
+     * Image Copyright FontAwesome.com
     */
     rulerHorizontal: "\uf547",
 	
-    /**
-     * Ruler Vertical ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ruler-vertical.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ruler-vertical.svg.png) Ruler Vertical
+     * Image Copyright FontAwesome.com
     */
     rulerVertical: "\uf548",
 	
-    /**
-     * Running ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/running.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/running.svg.png) Running
+     * Image Copyright FontAwesome.com
     */
     running: "\uf70c",
 	
-    /**
-     * Indian Rupee Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/rupee-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/rupee-sign.svg.png) Indian Rupee Sign
+     * Image Copyright FontAwesome.com
     */
     rupeeSign: "\uf156",
 	
-    /**
-     * Crying Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sad-cry.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sad-cry.svg.png) Crying Face
+     * Image Copyright FontAwesome.com
     */
     sadCry: "\uf5b3",
 	
-    /**
-     * Loudly Crying Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sad-tear.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sad-tear.svg.png) Loudly Crying Face
+     * Image Copyright FontAwesome.com
     */
     sadTear: "\uf5b4",
 	
-    /**
-     * Satellite ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/satellite.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/satellite.svg.png) Satellite
+     * Image Copyright FontAwesome.com
     */
     satellite: "\uf7bf",
 	
-    /**
-     * Satellite Dish ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/satellite-dish.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/satellite-dish.svg.png) Satellite Dish
+     * Image Copyright FontAwesome.com
     */
     satelliteDish: "\uf7c0",
 	
-    /**
-     * Save ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/save.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/save.svg.png) Save
+     * Image Copyright FontAwesome.com
     */
     save: "\uf0c7",
 	
-    /**
-     * School ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/school.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/school.svg.png) School
+     * Image Copyright FontAwesome.com
     */
     school: "\uf549",
 	
-    /**
-     * Screwdriver ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/screwdriver.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/screwdriver.svg.png) Screwdriver
+     * Image Copyright FontAwesome.com
     */
     screwdriver: "\uf54a",
 	
-    /**
-     * Scroll ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/scroll.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/scroll.svg.png) Scroll
+     * Image Copyright FontAwesome.com
     */
     scroll: "\uf70e",
 	
-    /**
-     * Sd Card ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sd-card.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sd-card.svg.png) Sd Card
+     * Image Copyright FontAwesome.com
     */
     sdCard: "\uf7c2",
 	
-    /**
-     * Search ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/search.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/search.svg.png) Search
+     * Image Copyright FontAwesome.com
     */
     search: "\uf002",
 	
-    /**
-     * Search Dollar ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/search-dollar.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/search-dollar.svg.png) Search Dollar
+     * Image Copyright FontAwesome.com
     */
     searchDollar: "\uf688",
 	
-    /**
-     * Search Location ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/search-location.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/search-location.svg.png) Search Location
+     * Image Copyright FontAwesome.com
     */
     searchLocation: "\uf689",
 	
-    /**
-     * Search Minus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/search-minus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/search-minus.svg.png) Search Minus
+     * Image Copyright FontAwesome.com
     */
     searchMinus: "\uf010",
 	
-    /**
-     * Search Plus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/search-plus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/search-plus.svg.png) Search Plus
+     * Image Copyright FontAwesome.com
     */
     searchPlus: "\uf00e",
 	
-    /**
-     * Seedling ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/seedling.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/seedling.svg.png) Seedling
+     * Image Copyright FontAwesome.com
     */
     seedling: "\uf4d8",
 	
-    /**
-     * Server ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/server.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/server.svg.png) Server
+     * Image Copyright FontAwesome.com
     */
     server: "\uf233",
 	
-    /**
-     * Shapes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shapes.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shapes.svg.png) Shapes
+     * Image Copyright FontAwesome.com
     */
     shapes: "\uf61f",
 	
-    /**
-     * Share ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/share.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/share.svg.png) Share
+     * Image Copyright FontAwesome.com
     */
     share: "\uf064",
 	
-    /**
-     * Alternate Share ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/share-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/share-alt.svg.png) Alternate Share
+     * Image Copyright FontAwesome.com
     */
     shareAlt: "\uf1e0",
 	
-    /**
-     * Alternate Share Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/share-alt-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/share-alt-square.svg.png) Alternate Share Square
+     * Image Copyright FontAwesome.com
     */
     shareAltSquare: "\uf1e1",
 	
-    /**
-     * Share Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/share-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/share-square.svg.png) Share Square
+     * Image Copyright FontAwesome.com
     */
     shareSquare: "\uf14d",
 	
-    /**
-     * Shekel Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shekel-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shekel-sign.svg.png) Shekel Sign
+     * Image Copyright FontAwesome.com
     */
     shekelSign: "\uf20b",
 	
-    /**
-     * Alternate Shield ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shield-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shield-alt.svg.png) Alternate Shield
+     * Image Copyright FontAwesome.com
     */
     shieldAlt: "\uf3ed",
 	
-    /**
-     * Ship ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ship.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ship.svg.png) Ship
+     * Image Copyright FontAwesome.com
     */
     ship: "\uf21a",
 	
-    /**
-     * Shipping Fast ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shipping-fast.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shipping-fast.svg.png) Shipping Fast
+     * Image Copyright FontAwesome.com
     */
     shippingFast: "\uf48b",
 	
-    /**
-     * Shoe Prints ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shoe-prints.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shoe-prints.svg.png) Shoe Prints
+     * Image Copyright FontAwesome.com
     */
     shoePrints: "\uf54b",
 	
-    /**
-     * Shopping Bag ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shopping-bag.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shopping-bag.svg.png) Shopping Bag
+     * Image Copyright FontAwesome.com
     */
     shoppingBag: "\uf290",
 	
-    /**
-     * Shopping Basket ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shopping-basket.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shopping-basket.svg.png) Shopping Basket
+     * Image Copyright FontAwesome.com
     */
     shoppingBasket: "\uf291",
 	
-    /**
-     * shopping-cart ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shopping-cart.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shopping-cart.svg.png) shopping-cart
+     * Image Copyright FontAwesome.com
     */
     shoppingCart: "\uf07a",
 	
-    /**
-     * Shower ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shower.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shower.svg.png) Shower
+     * Image Copyright FontAwesome.com
     */
     shower: "\uf2cc",
 	
-    /**
-     * Shuttle Van ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/shuttle-van.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/shuttle-van.svg.png) Shuttle Van
+     * Image Copyright FontAwesome.com
     */
     shuttleVan: "\uf5b6",
 	
-    /**
-     * Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sign.svg.png) Sign
+     * Image Copyright FontAwesome.com
     */
     sign: "\uf4d9",
 	
-    /**
-     * Alternate Sign In ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sign-in-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sign-in-alt.svg.png) Alternate Sign In
+     * Image Copyright FontAwesome.com
     */
     signInAlt: "\uf2f6",
 	
-    /**
-     * Sign Language ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sign-language.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sign-language.svg.png) Sign Language
+     * Image Copyright FontAwesome.com
     */
     signLanguage: "\uf2a7",
 	
-    /**
-     * Alternate Sign Out ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sign-out-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sign-out-alt.svg.png) Alternate Sign Out
+     * Image Copyright FontAwesome.com
     */
     signOutAlt: "\uf2f5",
 	
-    /**
-     * signal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/signal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/signal.svg.png) signal
+     * Image Copyright FontAwesome.com
     */
     signal: "\uf012",
 	
-    /**
-     * Signature ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/signature.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/signature.svg.png) Signature
+     * Image Copyright FontAwesome.com
     */
     signature: "\uf5b7",
 	
-    /**
-     * SIM Card ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sim-card.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sim-card.svg.png) SIM Card
+     * Image Copyright FontAwesome.com
     */
     simCard: "\uf7c4",
 	
-    /**
-     * Sitemap ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sitemap.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sitemap.svg.png) Sitemap
+     * Image Copyright FontAwesome.com
     */
     sitemap: "\uf0e8",
 	
-    /**
-     * Skating ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/skating.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/skating.svg.png) Skating
+     * Image Copyright FontAwesome.com
     */
     skating: "\uf7c5",
 	
-    /**
-     * Skiing ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/skiing.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/skiing.svg.png) Skiing
+     * Image Copyright FontAwesome.com
     */
     skiing: "\uf7c9",
 	
-    /**
-     * Skiing Nordic ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/skiing-nordic.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/skiing-nordic.svg.png) Skiing Nordic
+     * Image Copyright FontAwesome.com
     */
     skiingNordic: "\uf7ca",
 	
-    /**
-     * Skull ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/skull.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/skull.svg.png) Skull
+     * Image Copyright FontAwesome.com
     */
     skull: "\uf54c",
 	
-    /**
-     * Skull & Crossbones ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/skull-crossbones.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/skull-crossbones.svg.png) Skull & Crossbones
+     * Image Copyright FontAwesome.com
     */
     skullCrossbones: "\uf714",
 	
-    /**
-     * Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/slash.svg.png) Slash
+     * Image Copyright FontAwesome.com
     */
     slash: "\uf715",
 	
-    /**
-     * Sleigh ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sleigh.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sleigh.svg.png) Sleigh
+     * Image Copyright FontAwesome.com
     */
     sleigh: "\uf7cc",
 	
-    /**
-     * Horizontal Sliders ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sliders-h.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sliders-h.svg.png) Horizontal Sliders
+     * Image Copyright FontAwesome.com
     */
     slidersH: "\uf1de",
 	
-    /**
-     * Smiling Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/smile.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/smile.svg.png) Smiling Face
+     * Image Copyright FontAwesome.com
     */
     smile: "\uf118",
 	
-    /**
-     * Beaming Face With Smiling Eyes ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/smile-beam.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/smile-beam.svg.png) Beaming Face With Smiling Eyes
+     * Image Copyright FontAwesome.com
     */
     smileBeam: "\uf5b8",
 	
-    /**
-     * Winking Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/smile-wink.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/smile-wink.svg.png) Winking Face
+     * Image Copyright FontAwesome.com
     */
     smileWink: "\uf4da",
 	
-    /**
-     * Smog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/smog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/smog.svg.png) Smog
+     * Image Copyright FontAwesome.com
     */
     smog: "\uf75f",
 	
-    /**
-     * Smoking ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/smoking.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/smoking.svg.png) Smoking
+     * Image Copyright FontAwesome.com
     */
     smoking: "\uf48d",
 	
-    /**
-     * Smoking Ban ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/smoking-ban.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/smoking-ban.svg.png) Smoking Ban
+     * Image Copyright FontAwesome.com
     */
     smokingBan: "\uf54d",
 	
-    /**
-     * SMS ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sms.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sms.svg.png) SMS
+     * Image Copyright FontAwesome.com
     */
     sms: "\uf7cd",
 	
-    /**
-     * Snowboarding ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/snowboarding.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/snowboarding.svg.png) Snowboarding
+     * Image Copyright FontAwesome.com
     */
     snowboarding: "\uf7ce",
 	
-    /**
-     * Snowflake ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/snowflake.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/snowflake.svg.png) Snowflake
+     * Image Copyright FontAwesome.com
     */
     snowflake: "\uf2dc",
 	
-    /**
-     * Snowman ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/snowman.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/snowman.svg.png) Snowman
+     * Image Copyright FontAwesome.com
     */
     snowman: "\uf7d0",
 	
-    /**
-     * Snowplow ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/snowplow.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/snowplow.svg.png) Snowplow
+     * Image Copyright FontAwesome.com
     */
     snowplow: "\uf7d2",
 	
-    /**
-     * Socks ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/socks.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/socks.svg.png) Socks
+     * Image Copyright FontAwesome.com
     */
     socks: "\uf696",
 	
-    /**
-     * Solar Panel ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/solar-panel.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/solar-panel.svg.png) Solar Panel
+     * Image Copyright FontAwesome.com
     */
     solarPanel: "\uf5ba",
 	
-    /**
-     * Sort ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort.svg.png) Sort
+     * Image Copyright FontAwesome.com
     */
     sort: "\uf0dc",
 	
-    /**
-     * Sort Alphabetical Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-alpha-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-alpha-down.svg.png) Sort Alphabetical Down
+     * Image Copyright FontAwesome.com
     */
     sortAlphaDown: "\uf15d",
 	
-    /**
-     * Alternate Sort Alphabetical Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-alpha-down-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-alpha-down-alt.svg.png) Alternate Sort Alphabetical Down
+     * Image Copyright FontAwesome.com
     */
     sortAlphaDownAlt: "\uf881",
 	
-    /**
-     * Sort Alphabetical Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-alpha-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-alpha-up.svg.png) Sort Alphabetical Up
+     * Image Copyright FontAwesome.com
     */
     sortAlphaUp: "\uf15e",
 	
-    /**
-     * Alternate Sort Alphabetical Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-alpha-up-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-alpha-up-alt.svg.png) Alternate Sort Alphabetical Up
+     * Image Copyright FontAwesome.com
     */
     sortAlphaUpAlt: "\uf882",
 	
-    /**
-     * Sort Amount Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-amount-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-amount-down.svg.png) Sort Amount Down
+     * Image Copyright FontAwesome.com
     */
     sortAmountDown: "\uf160",
 	
-    /**
-     * Alternate Sort Amount Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-amount-down-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-amount-down-alt.svg.png) Alternate Sort Amount Down
+     * Image Copyright FontAwesome.com
     */
     sortAmountDownAlt: "\uf884",
 	
-    /**
-     * Sort Amount Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-amount-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-amount-up.svg.png) Sort Amount Up
+     * Image Copyright FontAwesome.com
     */
     sortAmountUp: "\uf161",
 	
-    /**
-     * Alternate Sort Amount Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-amount-up-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-amount-up-alt.svg.png) Alternate Sort Amount Up
+     * Image Copyright FontAwesome.com
     */
     sortAmountUpAlt: "\uf885",
 	
-    /**
-     * Sort Down (Descending) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-down.svg.png) Sort Down (Descending)
+     * Image Copyright FontAwesome.com
     */
     sortDown: "\uf0dd",
 	
-    /**
-     * Sort Numeric Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-numeric-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-numeric-down.svg.png) Sort Numeric Down
+     * Image Copyright FontAwesome.com
     */
     sortNumericDown: "\uf162",
 	
-    /**
-     * Alternate Sort Numeric Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-numeric-down-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-numeric-down-alt.svg.png) Alternate Sort Numeric Down
+     * Image Copyright FontAwesome.com
     */
     sortNumericDownAlt: "\uf886",
 	
-    /**
-     * Sort Numeric Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-numeric-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-numeric-up.svg.png) Sort Numeric Up
+     * Image Copyright FontAwesome.com
     */
     sortNumericUp: "\uf163",
 	
-    /**
-     * Alternate Sort Numeric Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-numeric-up-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-numeric-up-alt.svg.png) Alternate Sort Numeric Up
+     * Image Copyright FontAwesome.com
     */
     sortNumericUpAlt: "\uf887",
 	
-    /**
-     * Sort Up (Ascending) ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sort-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sort-up.svg.png) Sort Up (Ascending)
+     * Image Copyright FontAwesome.com
     */
     sortUp: "\uf0de",
 	
-    /**
-     * Spa ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/spa.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/spa.svg.png) Spa
+     * Image Copyright FontAwesome.com
     */
     spa: "\uf5bb",
 	
-    /**
-     * Space Shuttle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/space-shuttle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/space-shuttle.svg.png) Space Shuttle
+     * Image Copyright FontAwesome.com
     */
     spaceShuttle: "\uf197",
 	
-    /**
-     * Spell Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/spell-check.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/spell-check.svg.png) Spell Check
+     * Image Copyright FontAwesome.com
     */
     spellCheck: "\uf891",
 	
-    /**
-     * Spider ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/spider.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/spider.svg.png) Spider
+     * Image Copyright FontAwesome.com
     */
     spider: "\uf717",
 	
-    /**
-     * Spinner ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/spinner.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/spinner.svg.png) Spinner
+     * Image Copyright FontAwesome.com
     */
     spinner: "\uf110",
 	
-    /**
-     * Splotch ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/splotch.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/splotch.svg.png) Splotch
+     * Image Copyright FontAwesome.com
     */
     splotch: "\uf5bc",
 	
-    /**
-     * Spray Can ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/spray-can.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/spray-can.svg.png) Spray Can
+     * Image Copyright FontAwesome.com
     */
     sprayCan: "\uf5bd",
 	
-    /**
-     * Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/square.svg.png) Square
+     * Image Copyright FontAwesome.com
     */
     square: "\uf0c8",
 	
-    /**
-     * Square Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/square-full.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/square-full.svg.png) Square Full
+     * Image Copyright FontAwesome.com
     */
     squareFull: "\uf45c",
 	
-    /**
-     * Alternate Square Root ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/square-root-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/square-root-alt.svg.png) Alternate Square Root
+     * Image Copyright FontAwesome.com
     */
     squareRootAlt: "\uf698",
 	
-    /**
-     * Stamp ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/stamp.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/stamp.svg.png) Stamp
+     * Image Copyright FontAwesome.com
     */
     stamp: "\uf5bf",
 	
-    /**
-     * Star ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/star.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/star.svg.png) Star
+     * Image Copyright FontAwesome.com
     */
     star: "\uf005",
 	
-    /**
-     * Star and Crescent ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/star-and-crescent.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/star-and-crescent.svg.png) Star and Crescent
+     * Image Copyright FontAwesome.com
     */
     starAndCrescent: "\uf699",
 	
-    /**
-     * star-half ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/star-half.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/star-half.svg.png) star-half
+     * Image Copyright FontAwesome.com
     */
     starHalf: "\uf089",
 	
-    /**
-     * Alternate Star Half ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/star-half-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/star-half-alt.svg.png) Alternate Star Half
+     * Image Copyright FontAwesome.com
     */
     starHalfAlt: "\uf5c0",
 	
-    /**
-     * Star of David ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/star-of-david.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/star-of-david.svg.png) Star of David
+     * Image Copyright FontAwesome.com
     */
     starOfDavid: "\uf69a",
 	
-    /**
-     * Star of Life ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/star-of-life.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/star-of-life.svg.png) Star of Life
+     * Image Copyright FontAwesome.com
     */
     starOfLife: "\uf621",
 	
-    /**
-     * step-backward ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/step-backward.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/step-backward.svg.png) step-backward
+     * Image Copyright FontAwesome.com
     */
     stepBackward: "\uf048",
 	
-    /**
-     * step-forward ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/step-forward.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/step-forward.svg.png) step-forward
+     * Image Copyright FontAwesome.com
     */
     stepForward: "\uf051",
 	
-    /**
-     * Stethoscope ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/stethoscope.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/stethoscope.svg.png) Stethoscope
+     * Image Copyright FontAwesome.com
     */
     stethoscope: "\uf0f1",
 	
-    /**
-     * Sticky Note ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sticky-note.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sticky-note.svg.png) Sticky Note
+     * Image Copyright FontAwesome.com
     */
     stickyNote: "\uf249",
 	
-    /**
-     * stop ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/stop.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/stop.svg.png) stop
+     * Image Copyright FontAwesome.com
     */
     stop: "\uf04d",
 	
-    /**
-     * Stop Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/stop-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/stop-circle.svg.png) Stop Circle
+     * Image Copyright FontAwesome.com
     */
     stopCircle: "\uf28d",
 	
-    /**
-     * Stopwatch ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/stopwatch.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/stopwatch.svg.png) Stopwatch
+     * Image Copyright FontAwesome.com
     */
     stopwatch: "\uf2f2",
 	
-    /**
-     * Store ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/store.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/store.svg.png) Store
+     * Image Copyright FontAwesome.com
     */
     store: "\uf54e",
 	
-    /**
-     * Alternate Store ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/store-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/store-alt.svg.png) Alternate Store
+     * Image Copyright FontAwesome.com
     */
     storeAlt: "\uf54f",
 	
-    /**
-     * Stream ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/stream.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/stream.svg.png) Stream
+     * Image Copyright FontAwesome.com
     */
     stream: "\uf550",
 	
-    /**
-     * Street View ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/street-view.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/street-view.svg.png) Street View
+     * Image Copyright FontAwesome.com
     */
     streetView: "\uf21d",
 	
-    /**
-     * Strikethrough ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/strikethrough.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/strikethrough.svg.png) Strikethrough
+     * Image Copyright FontAwesome.com
     */
     strikethrough: "\uf0cc",
 	
-    /**
-     * Stroopwafel ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/stroopwafel.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/stroopwafel.svg.png) Stroopwafel
+     * Image Copyright FontAwesome.com
     */
     stroopwafel: "\uf551",
 	
-    /**
-     * subscript ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/subscript.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/subscript.svg.png) subscript
+     * Image Copyright FontAwesome.com
     */
     subscript: "\uf12c",
 	
-    /**
-     * Subway ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/subway.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/subway.svg.png) Subway
+     * Image Copyright FontAwesome.com
     */
     subway: "\uf239",
 	
-    /**
-     * Suitcase ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/suitcase.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/suitcase.svg.png) Suitcase
+     * Image Copyright FontAwesome.com
     */
     suitcase: "\uf0f2",
 	
-    /**
-     * Suitcase Rolling ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/suitcase-rolling.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/suitcase-rolling.svg.png) Suitcase Rolling
+     * Image Copyright FontAwesome.com
     */
     suitcaseRolling: "\uf5c1",
 	
-    /**
-     * Sun ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sun.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sun.svg.png) Sun
+     * Image Copyright FontAwesome.com
     */
     sun: "\uf185",
 	
-    /**
-     * superscript ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/superscript.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/superscript.svg.png) superscript
+     * Image Copyright FontAwesome.com
     */
     superscript: "\uf12b",
 	
-    /**
-     * Hushed Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/surprise.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/surprise.svg.png) Hushed Face
+     * Image Copyright FontAwesome.com
     */
     surprise: "\uf5c2",
 	
-    /**
-     * Swatchbook ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/swatchbook.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/swatchbook.svg.png) Swatchbook
+     * Image Copyright FontAwesome.com
     */
     swatchbook: "\uf5c3",
 	
-    /**
-     * Swimmer ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/swimmer.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/swimmer.svg.png) Swimmer
+     * Image Copyright FontAwesome.com
     */
     swimmer: "\uf5c4",
 	
-    /**
-     * Swimming Pool ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/swimming-pool.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/swimming-pool.svg.png) Swimming Pool
+     * Image Copyright FontAwesome.com
     */
     swimmingPool: "\uf5c5",
 	
-    /**
-     * Synagogue ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/synagogue.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/synagogue.svg.png) Synagogue
+     * Image Copyright FontAwesome.com
     */
     synagogue: "\uf69b",
 	
-    /**
-     * Sync ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sync.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sync.svg.png) Sync
+     * Image Copyright FontAwesome.com
     */
     sync: "\uf021",
 	
-    /**
-     * Alternate Sync ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/sync-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/sync-alt.svg.png) Alternate Sync
+     * Image Copyright FontAwesome.com
     */
     syncAlt: "\uf2f1",
 	
-    /**
-     * Syringe ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/syringe.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/syringe.svg.png) Syringe
+     * Image Copyright FontAwesome.com
     */
     syringe: "\uf48e",
 	
-    /**
-     * table ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/table.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/table.svg.png) table
+     * Image Copyright FontAwesome.com
     */
     table: "\uf0ce",
 	
-    /**
-     * Table Tennis ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/table-tennis.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/table-tennis.svg.png) Table Tennis
+     * Image Copyright FontAwesome.com
     */
     tableTennis: "\uf45d",
 	
-    /**
-     * tablet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tablet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tablet.svg.png) tablet
+     * Image Copyright FontAwesome.com
     */
     tablet: "\uf10a",
 	
-    /**
-     * Alternate Tablet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tablet-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tablet-alt.svg.png) Alternate Tablet
+     * Image Copyright FontAwesome.com
     */
     tabletAlt: "\uf3fa",
 	
-    /**
-     * Tablets ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tablets.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tablets.svg.png) Tablets
+     * Image Copyright FontAwesome.com
     */
     tablets: "\uf490",
 	
-    /**
-     * Alternate Tachometer ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tachometer-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tachometer-alt.svg.png) Alternate Tachometer
+     * Image Copyright FontAwesome.com
     */
     tachometerAlt: "\uf3fd",
 	
-    /**
-     * tag ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tag.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tag.svg.png) tag
+     * Image Copyright FontAwesome.com
     */
     tag: "\uf02b",
 	
-    /**
-     * tags ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tags.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tags.svg.png) tags
+     * Image Copyright FontAwesome.com
     */
     tags: "\uf02c",
 	
-    /**
-     * Tape ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tape.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tape.svg.png) Tape
+     * Image Copyright FontAwesome.com
     */
     tape: "\uf4db",
 	
-    /**
-     * Tasks ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tasks.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tasks.svg.png) Tasks
+     * Image Copyright FontAwesome.com
     */
     tasks: "\uf0ae",
 	
-    /**
-     * Taxi ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/taxi.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/taxi.svg.png) Taxi
+     * Image Copyright FontAwesome.com
     */
     taxi: "\uf1ba",
 	
-    /**
-     * Teeth ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/teeth.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/teeth.svg.png) Teeth
+     * Image Copyright FontAwesome.com
     */
     teeth: "\uf62e",
 	
-    /**
-     * Teeth Open ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/teeth-open.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/teeth-open.svg.png) Teeth Open
+     * Image Copyright FontAwesome.com
     */
     teethOpen: "\uf62f",
 	
-    /**
-     * High Temperature ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/temperature-high.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/temperature-high.svg.png) High Temperature
+     * Image Copyright FontAwesome.com
     */
     temperatureHigh: "\uf769",
 	
-    /**
-     * Low Temperature ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/temperature-low.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/temperature-low.svg.png) Low Temperature
+     * Image Copyright FontAwesome.com
     */
     temperatureLow: "\uf76b",
 	
-    /**
-     * Tenge ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tenge.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tenge.svg.png) Tenge
+     * Image Copyright FontAwesome.com
     */
     tenge: "\uf7d7",
 	
-    /**
-     * Terminal ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/terminal.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/terminal.svg.png) Terminal
+     * Image Copyright FontAwesome.com
     */
     terminal: "\uf120",
 	
-    /**
-     * text-height ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/text-height.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/text-height.svg.png) text-height
+     * Image Copyright FontAwesome.com
     */
     textHeight: "\uf034",
 	
-    /**
-     * Text Width ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/text-width.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/text-width.svg.png) Text Width
+     * Image Copyright FontAwesome.com
     */
     textWidth: "\uf035",
 	
-    /**
-     * th ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/th.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/th.svg.png) th
+     * Image Copyright FontAwesome.com
     */
     th: "\uf00a",
 	
-    /**
-     * th-large ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/th-large.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/th-large.svg.png) th-large
+     * Image Copyright FontAwesome.com
     */
     thLarge: "\uf009",
 	
-    /**
-     * th-list ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/th-list.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/th-list.svg.png) th-list
+     * Image Copyright FontAwesome.com
     */
     thList: "\uf00b",
 	
-    /**
-     * Theater Masks ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/theater-masks.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/theater-masks.svg.png) Theater Masks
+     * Image Copyright FontAwesome.com
     */
     theaterMasks: "\uf630",
 	
-    /**
-     * Thermometer ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thermometer.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thermometer.svg.png) Thermometer
+     * Image Copyright FontAwesome.com
     */
     thermometer: "\uf491",
 	
-    /**
-     * Thermometer Empty ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thermometer-empty.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thermometer-empty.svg.png) Thermometer Empty
+     * Image Copyright FontAwesome.com
     */
     thermometerEmpty: "\uf2cb",
 	
-    /**
-     * Thermometer Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thermometer-full.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thermometer-full.svg.png) Thermometer Full
+     * Image Copyright FontAwesome.com
     */
     thermometerFull: "\uf2c7",
 	
-    /**
-     * Thermometer 1/2 Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thermometer-half.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thermometer-half.svg.png) Thermometer 1/2 Full
+     * Image Copyright FontAwesome.com
     */
     thermometerHalf: "\uf2c9",
 	
-    /**
-     * Thermometer 1/4 Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thermometer-quarter.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thermometer-quarter.svg.png) Thermometer 1/4 Full
+     * Image Copyright FontAwesome.com
     */
     thermometerQuarter: "\uf2ca",
 	
-    /**
-     * Thermometer 3/4 Full ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thermometer-three-quarters.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thermometer-three-quarters.svg.png) Thermometer 3/4 Full
+     * Image Copyright FontAwesome.com
     */
     thermometerThreeQuarters: "\uf2c8",
 	
-    /**
-     * thumbs-down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thumbs-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thumbs-down.svg.png) thumbs-down
+     * Image Copyright FontAwesome.com
     */
     thumbsDown: "\uf165",
 	
-    /**
-     * thumbs-up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thumbs-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thumbs-up.svg.png) thumbs-up
+     * Image Copyright FontAwesome.com
     */
     thumbsUp: "\uf164",
 	
-    /**
-     * Thumbtack ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/thumbtack.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/thumbtack.svg.png) Thumbtack
+     * Image Copyright FontAwesome.com
     */
     thumbtack: "\uf08d",
 	
-    /**
-     * Alternate Ticket ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/ticket-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/ticket-alt.svg.png) Alternate Ticket
+     * Image Copyright FontAwesome.com
     */
     ticketAlt: "\uf3ff",
 	
-    /**
-     * Times ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/times.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/times.svg.png) Times
+     * Image Copyright FontAwesome.com
     */
     times: "\uf00d",
 	
-    /**
-     * Times Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/times-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/times-circle.svg.png) Times Circle
+     * Image Copyright FontAwesome.com
     */
     timesCircle: "\uf057",
 	
-    /**
-     * tint ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tint.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tint.svg.png) tint
+     * Image Copyright FontAwesome.com
     */
     tint: "\uf043",
 	
-    /**
-     * Tint Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tint-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tint-slash.svg.png) Tint Slash
+     * Image Copyright FontAwesome.com
     */
     tintSlash: "\uf5c7",
 	
-    /**
-     * Tired Face ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tired.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tired.svg.png) Tired Face
+     * Image Copyright FontAwesome.com
     */
     tired: "\uf5c8",
 	
-    /**
-     * Toggle Off ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/toggle-off.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/toggle-off.svg.png) Toggle Off
+     * Image Copyright FontAwesome.com
     */
     toggleOff: "\uf204",
 	
-    /**
-     * Toggle On ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/toggle-on.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/toggle-on.svg.png) Toggle On
+     * Image Copyright FontAwesome.com
     */
     toggleOn: "\uf205",
 	
-    /**
-     * Toilet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/toilet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/toilet.svg.png) Toilet
+     * Image Copyright FontAwesome.com
     */
     toilet: "\uf7d8",
 	
-    /**
-     * Toilet Paper ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/toilet-paper.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/toilet-paper.svg.png) Toilet Paper
+     * Image Copyright FontAwesome.com
     */
     toiletPaper: "\uf71e",
 	
-    /**
-     * Toolbox ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/toolbox.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/toolbox.svg.png) Toolbox
+     * Image Copyright FontAwesome.com
     */
     toolbox: "\uf552",
 	
-    /**
-     * Tools ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tools.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tools.svg.png) Tools
+     * Image Copyright FontAwesome.com
     */
     tools: "\uf7d9",
 	
-    /**
-     * Tooth ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tooth.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tooth.svg.png) Tooth
+     * Image Copyright FontAwesome.com
     */
     tooth: "\uf5c9",
 	
-    /**
-     * Torah ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/torah.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/torah.svg.png) Torah
+     * Image Copyright FontAwesome.com
     */
     torah: "\uf6a0",
 	
-    /**
-     * Torii Gate ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/torii-gate.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/torii-gate.svg.png) Torii Gate
+     * Image Copyright FontAwesome.com
     */
     toriiGate: "\uf6a1",
 	
-    /**
-     * Tractor ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tractor.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tractor.svg.png) Tractor
+     * Image Copyright FontAwesome.com
     */
     tractor: "\uf722",
 	
-    /**
-     * Trademark ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/trademark.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/trademark.svg.png) Trademark
+     * Image Copyright FontAwesome.com
     */
     trademark: "\uf25c",
 	
-    /**
-     * Traffic Light ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/traffic-light.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/traffic-light.svg.png) Traffic Light
+     * Image Copyright FontAwesome.com
     */
     trafficLight: "\uf637",
 	
-    /**
-     * Trailer ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/trailer.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/trailer.svg.png) Trailer
+     * Image Copyright FontAwesome.com
     */
     trailer: "\uf941",
 	
-    /**
-     * Train ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/train.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/train.svg.png) Train
+     * Image Copyright FontAwesome.com
     */
     train: "\uf238",
 	
-    /**
-     * Tram ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tram.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tram.svg.png) Tram
+     * Image Copyright FontAwesome.com
     */
     tram: "\uf7da",
 	
-    /**
-     * Transgender ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/transgender.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/transgender.svg.png) Transgender
+     * Image Copyright FontAwesome.com
     */
     transgender: "\uf224",
 	
-    /**
-     * Alternate Transgender ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/transgender-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/transgender-alt.svg.png) Alternate Transgender
+     * Image Copyright FontAwesome.com
     */
     transgenderAlt: "\uf225",
 	
-    /**
-     * Trash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/trash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/trash.svg.png) Trash
+     * Image Copyright FontAwesome.com
     */
     trash: "\uf1f8",
 	
-    /**
-     * Alternate Trash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/trash-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/trash-alt.svg.png) Alternate Trash
+     * Image Copyright FontAwesome.com
     */
     trashAlt: "\uf2ed",
 	
-    /**
-     * Trash Restore ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/trash-restore.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/trash-restore.svg.png) Trash Restore
+     * Image Copyright FontAwesome.com
     */
     trashRestore: "\uf829",
 	
-    /**
-     * Alternative Trash Restore ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/trash-restore-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/trash-restore-alt.svg.png) Alternative Trash Restore
+     * Image Copyright FontAwesome.com
     */
     trashRestoreAlt: "\uf82a",
 	
-    /**
-     * Tree ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tree.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tree.svg.png) Tree
+     * Image Copyright FontAwesome.com
     */
     tree: "\uf1bb",
 	
-    /**
-     * trophy ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/trophy.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/trophy.svg.png) trophy
+     * Image Copyright FontAwesome.com
     */
     trophy: "\uf091",
 	
-    /**
-     * truck ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/truck.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/truck.svg.png) truck
+     * Image Copyright FontAwesome.com
     */
     truck: "\uf0d1",
 	
-    /**
-     * Truck Loading ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/truck-loading.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/truck-loading.svg.png) Truck Loading
+     * Image Copyright FontAwesome.com
     */
     truckLoading: "\uf4de",
 	
-    /**
-     * Truck Monster ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/truck-monster.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/truck-monster.svg.png) Truck Monster
+     * Image Copyright FontAwesome.com
     */
     truckMonster: "\uf63b",
 	
-    /**
-     * Truck Moving ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/truck-moving.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/truck-moving.svg.png) Truck Moving
+     * Image Copyright FontAwesome.com
     */
     truckMoving: "\uf4df",
 	
-    /**
-     * Truck Side ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/truck-pickup.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/truck-pickup.svg.png) Truck Side
+     * Image Copyright FontAwesome.com
     */
     truckPickup: "\uf63c",
 	
-    /**
-     * T-Shirt ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tshirt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tshirt.svg.png) T-Shirt
+     * Image Copyright FontAwesome.com
     */
     tshirt: "\uf553",
 	
-    /**
-     * TTY ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tty.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tty.svg.png) TTY
+     * Image Copyright FontAwesome.com
     */
     tty: "\uf1e4",
 	
-    /**
-     * Television ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/tv.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/tv.svg.png) Television
+     * Image Copyright FontAwesome.com
     */
     tv: "\uf26c",
 	
-    /**
-     * Umbrella ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/umbrella.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/umbrella.svg.png) Umbrella
+     * Image Copyright FontAwesome.com
     */
     umbrella: "\uf0e9",
 	
-    /**
-     * Umbrella Beach ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/umbrella-beach.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/umbrella-beach.svg.png) Umbrella Beach
+     * Image Copyright FontAwesome.com
     */
     umbrellaBeach: "\uf5ca",
 	
-    /**
-     * Underline ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/underline.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/underline.svg.png) Underline
+     * Image Copyright FontAwesome.com
     */
     underline: "\uf0cd",
 	
-    /**
-     * Undo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/undo.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/undo.svg.png) Undo
+     * Image Copyright FontAwesome.com
     */
     undo: "\uf0e2",
 	
-    /**
-     * Alternate Undo ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/undo-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/undo-alt.svg.png) Alternate Undo
+     * Image Copyright FontAwesome.com
     */
     undoAlt: "\uf2ea",
 	
-    /**
-     * Universal Access ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/universal-access.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/universal-access.svg.png) Universal Access
+     * Image Copyright FontAwesome.com
     */
     universalAccess: "\uf29a",
 	
-    /**
-     * University ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/university.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/university.svg.png) University
+     * Image Copyright FontAwesome.com
     */
     university: "\uf19c",
 	
-    /**
-     * unlink ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/unlink.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/unlink.svg.png) unlink
+     * Image Copyright FontAwesome.com
     */
     unlink: "\uf127",
 	
-    /**
-     * unlock ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/unlock.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/unlock.svg.png) unlock
+     * Image Copyright FontAwesome.com
     */
     unlock: "\uf09c",
 	
-    /**
-     * Alternate Unlock ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/unlock-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/unlock-alt.svg.png) Alternate Unlock
+     * Image Copyright FontAwesome.com
     */
     unlockAlt: "\uf13e",
 	
-    /**
-     * Upload ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/upload.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/upload.svg.png) Upload
+     * Image Copyright FontAwesome.com
     */
     upload: "\uf093",
 	
-    /**
-     * User ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user.svg.png) User
+     * Image Copyright FontAwesome.com
     */
     user: "\uf007",
 	
-    /**
-     * Alternate User ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-alt.svg.png) Alternate User
+     * Image Copyright FontAwesome.com
     */
     userAlt: "\uf406",
 	
-    /**
-     * Alternate User Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-alt-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-alt-slash.svg.png) Alternate User Slash
+     * Image Copyright FontAwesome.com
     */
     userAltSlash: "\uf4fa",
 	
-    /**
-     * User Astronaut ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-astronaut.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-astronaut.svg.png) User Astronaut
+     * Image Copyright FontAwesome.com
     */
     userAstronaut: "\uf4fb",
 	
-    /**
-     * User Check ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-check.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-check.svg.png) User Check
+     * Image Copyright FontAwesome.com
     */
     userCheck: "\uf4fc",
 	
-    /**
-     * User Circle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-circle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-circle.svg.png) User Circle
+     * Image Copyright FontAwesome.com
     */
     userCircle: "\uf2bd",
 	
-    /**
-     * User Clock ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-clock.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-clock.svg.png) User Clock
+     * Image Copyright FontAwesome.com
     */
     userClock: "\uf4fd",
 	
-    /**
-     * User Cog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-cog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-cog.svg.png) User Cog
+     * Image Copyright FontAwesome.com
     */
     userCog: "\uf4fe",
 	
-    /**
-     * User Edit ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-edit.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-edit.svg.png) User Edit
+     * Image Copyright FontAwesome.com
     */
     userEdit: "\uf4ff",
 	
-    /**
-     * User Friends ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-friends.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-friends.svg.png) User Friends
+     * Image Copyright FontAwesome.com
     */
     userFriends: "\uf500",
 	
-    /**
-     * User Graduate ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-graduate.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-graduate.svg.png) User Graduate
+     * Image Copyright FontAwesome.com
     */
     userGraduate: "\uf501",
 	
-    /**
-     * User Injured ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-injured.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-injured.svg.png) User Injured
+     * Image Copyright FontAwesome.com
     */
     userInjured: "\uf728",
 	
-    /**
-     * User Lock ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-lock.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-lock.svg.png) User Lock
+     * Image Copyright FontAwesome.com
     */
     userLock: "\uf502",
 	
-    /**
-     * Doctor ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-md.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-md.svg.png) Doctor
+     * Image Copyright FontAwesome.com
     */
     userMd: "\uf0f0",
 	
-    /**
-     * User Minus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-minus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-minus.svg.png) User Minus
+     * Image Copyright FontAwesome.com
     */
     userMinus: "\uf503",
 	
-    /**
-     * User Ninja ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-ninja.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-ninja.svg.png) User Ninja
+     * Image Copyright FontAwesome.com
     */
     userNinja: "\uf504",
 	
-    /**
-     * Nurse ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-nurse.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-nurse.svg.png) Nurse
+     * Image Copyright FontAwesome.com
     */
     userNurse: "\uf82f",
 	
-    /**
-     * User Plus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-plus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-plus.svg.png) User Plus
+     * Image Copyright FontAwesome.com
     */
     userPlus: "\uf234",
 	
-    /**
-     * User Secret ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-secret.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-secret.svg.png) User Secret
+     * Image Copyright FontAwesome.com
     */
     userSecret: "\uf21b",
 	
-    /**
-     * User Shield ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-shield.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-shield.svg.png) User Shield
+     * Image Copyright FontAwesome.com
     */
     userShield: "\uf505",
 	
-    /**
-     * User Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-slash.svg.png) User Slash
+     * Image Copyright FontAwesome.com
     */
     userSlash: "\uf506",
 	
-    /**
-     * User Tag ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-tag.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-tag.svg.png) User Tag
+     * Image Copyright FontAwesome.com
     */
     userTag: "\uf507",
 	
-    /**
-     * User Tie ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-tie.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-tie.svg.png) User Tie
+     * Image Copyright FontAwesome.com
     */
     userTie: "\uf508",
 	
-    /**
-     * Remove User ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/user-times.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/user-times.svg.png) Remove User
+     * Image Copyright FontAwesome.com
     */
     userTimes: "\uf235",
 	
-    /**
-     * Users ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/users.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/users.svg.png) Users
+     * Image Copyright FontAwesome.com
     */
     users: "\uf0c0",
 	
-    /**
-     * Users Cog ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/users-cog.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/users-cog.svg.png) Users Cog
+     * Image Copyright FontAwesome.com
     */
     usersCog: "\uf509",
 	
-    /**
-     * Utensil Spoon ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/utensil-spoon.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/utensil-spoon.svg.png) Utensil Spoon
+     * Image Copyright FontAwesome.com
     */
     utensilSpoon: "\uf2e5",
 	
-    /**
-     * Utensils ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/utensils.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/utensils.svg.png) Utensils
+     * Image Copyright FontAwesome.com
     */
     utensils: "\uf2e7",
 	
-    /**
-     * Vector Square ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/vector-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/vector-square.svg.png) Vector Square
+     * Image Copyright FontAwesome.com
     */
     vectorSquare: "\uf5cb",
 	
-    /**
-     * Venus ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/venus.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/venus.svg.png) Venus
+     * Image Copyright FontAwesome.com
     */
     venus: "\uf221",
 	
-    /**
-     * Venus Double ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/venus-double.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/venus-double.svg.png) Venus Double
+     * Image Copyright FontAwesome.com
     */
     venusDouble: "\uf226",
 	
-    /**
-     * Venus Mars ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/venus-mars.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/venus-mars.svg.png) Venus Mars
+     * Image Copyright FontAwesome.com
     */
     venusMars: "\uf228",
 	
-    /**
-     * Vial ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/vial.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/vial.svg.png) Vial
+     * Image Copyright FontAwesome.com
     */
     vial: "\uf492",
 	
-    /**
-     * Vials ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/vials.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/vials.svg.png) Vials
+     * Image Copyright FontAwesome.com
     */
     vials: "\uf493",
 	
-    /**
-     * Video ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/video.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/video.svg.png) Video
+     * Image Copyright FontAwesome.com
     */
     video: "\uf03d",
 	
-    /**
-     * Video Slash ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/video-slash.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/video-slash.svg.png) Video Slash
+     * Image Copyright FontAwesome.com
     */
     videoSlash: "\uf4e2",
 	
-    /**
-     * Vihara ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/vihara.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/vihara.svg.png) Vihara
+     * Image Copyright FontAwesome.com
     */
     vihara: "\uf6a7",
 	
-    /**
-     * Voicemail ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/voicemail.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/voicemail.svg.png) Voicemail
+     * Image Copyright FontAwesome.com
     */
     voicemail: "\uf897",
 	
-    /**
-     * Volleyball Ball ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/volleyball-ball.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/volleyball-ball.svg.png) Volleyball Ball
+     * Image Copyright FontAwesome.com
     */
     volleyballBall: "\uf45f",
 	
-    /**
-     * Volume Down ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/volume-down.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/volume-down.svg.png) Volume Down
+     * Image Copyright FontAwesome.com
     */
     volumeDown: "\uf027",
 	
-    /**
-     * Volume Mute ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/volume-mute.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/volume-mute.svg.png) Volume Mute
+     * Image Copyright FontAwesome.com
     */
     volumeMute: "\uf6a9",
 	
-    /**
-     * Volume Off ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/volume-off.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/volume-off.svg.png) Volume Off
+     * Image Copyright FontAwesome.com
     */
     volumeOff: "\uf026",
 	
-    /**
-     * Volume Up ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/volume-up.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/volume-up.svg.png) Volume Up
+     * Image Copyright FontAwesome.com
     */
     volumeUp: "\uf028",
 	
-    /**
-     * Vote Yea ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/vote-yea.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/vote-yea.svg.png) Vote Yea
+     * Image Copyright FontAwesome.com
     */
     voteYea: "\uf772",
 	
-    /**
-     * Cardboard VR ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/vr-cardboard.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/vr-cardboard.svg.png) Cardboard VR
+     * Image Copyright FontAwesome.com
     */
     vrCardboard: "\uf729",
 	
-    /**
-     * Walking ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/walking.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/walking.svg.png) Walking
+     * Image Copyright FontAwesome.com
     */
     walking: "\uf554",
 	
-    /**
-     * Wallet ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wallet.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wallet.svg.png) Wallet
+     * Image Copyright FontAwesome.com
     */
     wallet: "\uf555",
 	
-    /**
-     * Warehouse ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/warehouse.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/warehouse.svg.png) Warehouse
+     * Image Copyright FontAwesome.com
     */
     warehouse: "\uf494",
 	
-    /**
-     * Water ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/water.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/water.svg.png) Water
+     * Image Copyright FontAwesome.com
     */
     water: "\uf773",
 	
-    /**
-     * Square Wave ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wave-square.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wave-square.svg.png) Square Wave
+     * Image Copyright FontAwesome.com
     */
     waveSquare: "\uf83e",
 	
-    /**
-     * Weight ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/weight.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/weight.svg.png) Weight
+     * Image Copyright FontAwesome.com
     */
     weight: "\uf496",
 	
-    /**
-     * Hanging Weight ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/weight-hanging.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/weight-hanging.svg.png) Hanging Weight
+     * Image Copyright FontAwesome.com
     */
     weightHanging: "\uf5cd",
 	
-    /**
-     * Wheelchair ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wheelchair.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wheelchair.svg.png) Wheelchair
+     * Image Copyright FontAwesome.com
     */
     wheelchair: "\uf193",
 	
-    /**
-     * WiFi ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wifi.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wifi.svg.png) WiFi
+     * Image Copyright FontAwesome.com
     */
     wifi: "\uf1eb",
 	
-    /**
-     * Wind ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wind.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wind.svg.png) Wind
+     * Image Copyright FontAwesome.com
     */
     wind: "\uf72e",
 	
-    /**
-     * Window Close ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/window-close.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/window-close.svg.png) Window Close
+     * Image Copyright FontAwesome.com
     */
     windowClose: "\uf410",
 	
-    /**
-     * Window Maximize ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/window-maximize.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/window-maximize.svg.png) Window Maximize
+     * Image Copyright FontAwesome.com
     */
     windowMaximize: "\uf2d0",
 	
-    /**
-     * Window Minimize ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/window-minimize.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/window-minimize.svg.png) Window Minimize
+     * Image Copyright FontAwesome.com
     */
     windowMinimize: "\uf2d1",
 	
-    /**
-     * Window Restore ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/window-restore.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/window-restore.svg.png) Window Restore
+     * Image Copyright FontAwesome.com
     */
     windowRestore: "\uf2d2",
 	
-    /**
-     * Wine Bottle ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wine-bottle.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wine-bottle.svg.png) Wine Bottle
+     * Image Copyright FontAwesome.com
     */
     wineBottle: "\uf72f",
 	
-    /**
-     * Wine Glass ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wine-glass.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wine-glass.svg.png) Wine Glass
+     * Image Copyright FontAwesome.com
     */
     wineGlass: "\uf4e3",
 	
-    /**
-     * Alternate Wine Glas ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wine-glass-alt.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wine-glass-alt.svg.png) Alternate Wine Glas
+     * Image Copyright FontAwesome.com
     */
     wineGlassAlt: "\uf5ce",
 	
-    /**
-     * Won Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/won-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/won-sign.svg.png) Won Sign
+     * Image Copyright FontAwesome.com
     */
     wonSign: "\uf159",
 	
-    /**
-     * Wrench ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/wrench.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/wrench.svg.png) Wrench
+     * Image Copyright FontAwesome.com
     */
     wrench: "\uf0ad",
 	
-    /**
-     * X-Ray ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/x-ray.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/x-ray.svg.png) X-Ray
+     * Image Copyright FontAwesome.com
     */
     xRay: "\uf497",
 	
-    /**
-     * Yen Sign ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/yen-sign.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/yen-sign.svg.png) Yen Sign
+     * Image Copyright FontAwesome.com
     */
     yenSign: "\uf157",
 	
-    /**
-     * Yin Yang ![Image](https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.12.0/svgs/solid/yin-yang.svg)
+    /** ![Image](https://cdn.jsdelivr.net/npm/@web-atoms/font-awesome-pngs@1.0.15/pngs/solid/yin-yang.svg.png) Yin Yang
+     * Image Copyright FontAwesome.com
     */
     yinYang: "\uf6ad",
     toString: () => {
@@ -4834,9 +4834,9 @@ const FontAwesomeSolid = {
         const p = bridge.platform;
         if (p) {
             if (/android/i.test(p)) {
-                name = "Font Awesome 5 Free-Solid-400.otf#Font Awesome 5 Free Solid";
+                name = "Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid";
             } else if (/ios/i.test(p)) {
-                name = "Font Awesome 5 Free";
+                name = "Font Awesome 5 Free Solid";
             }
         } else {
             name = "Font Awesome 5 Free";

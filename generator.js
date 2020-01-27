@@ -46,6 +46,7 @@ function generate(fontName, name, style, gen) {
             const t = `
     /**
      * ${element.label} ![Image](${img})
+     * Image Copyright FontAwesome.com
     */
     ${toIdentifier(key, lowerCase)}: ${gen(element)}`;
             list.push(t);

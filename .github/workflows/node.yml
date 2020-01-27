@@ -17,7 +17,13 @@ jobs:
           registry-url: https://registry.npmjs.org/          
       - run: npm install
       - run: npm install -g typescript@3.7.3
+      - run: node ./generator.js
       - run: tsc
       - run: npm publish --access public
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+      - run: node ./png/change-name.js
+      - run: npm publish --access public
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+      - run: node ./undo.js

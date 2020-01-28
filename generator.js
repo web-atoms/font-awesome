@@ -77,6 +77,7 @@ const FontAwesome${name} = {
         } else {
             name = "Font Awesome 5 Free";
         }
+        this._fontName = name;
         return name;
     }
 };

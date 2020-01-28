@@ -20,7 +20,13 @@ function toIdentifier(name, lowerCase) {
     return a;
 }
 
-function generate(fontName, name, style, gen) {
+function generate({
+    fontName,
+    name,
+    style,
+    gen,
+    iosName
+}) {
     let lowerCase = false;
     if (!gen) {
         lowerCase = true;
@@ -66,7 +72,7 @@ const FontAwesome${name} = {
             if (/android/i.test(p)) {
                 name = "${fontName}";
             } else if (/ios/i.test(p)) {
-                name = "Font Awesome 5 Free";
+                name = "${iosName}";
             }
         } else {
             name = "Font Awesome 5 Free";
@@ -81,6 +87,21 @@ export default FontAwesome${name};
 fs.writeFileSync(`./src/FontAwesome${name}.ts`, content);
 }
 
-generate("Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular", "Regular", "regular");
-generate("Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid", "Solid", "solid");
-generate("Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular", "Brands", "brands");
+generate({
+    fontName: "Font Awesome 5 Free-Regular-400.otf#Font Awesome 5 Free Regular", 
+    iosName: "FontAwesome5Free-Regular",
+    name: "Regular",
+    style: "regular"
+});
+generate({
+    fontName: "Font Awesome 5 Free-Solid-900.otf#Font Awesome 5 Free Solid",
+    iosName: "FontAwesome5Free-Solid",
+    name: "Solid",
+    style: "solid"
+});
+generate({
+    fontName: "Font Awesome 5 Brands-Regular-400.otf#Font Awesome 5 Brands Regular",
+    iosName: "FontAwesome5Brands-Regular",
+    name: "Brands",
+    style: "brands"
+});

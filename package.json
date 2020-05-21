@@ -17,9 +17,7 @@
     "url": "https://github.com/web-atoms/font-awesome/issues"
   },
   "homepage": "https://github.com/web-atoms/font-awesome#readme",
-  "dependencies": {
-    "@web-atoms/core": "^1.1.27"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.12.0",
     "sharp": "^0.25.1"

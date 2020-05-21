@@ -1,6 +1,6 @@
 {
   "name": "@web-atoms/font-awesome",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "Font awesome Unicode set for use in WebAtoms",
   "main": "index.js",
   "scripts": {

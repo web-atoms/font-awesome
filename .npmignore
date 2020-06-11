@@ -2,3 +2,11 @@ node_modules
 coverage
 html-report
 package-lock.json
+.github
+.vscode
+generator.js
+generate-png.js
+tsconfig.json
+tslint.json
+icons.json
+png
